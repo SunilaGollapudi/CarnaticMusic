@@ -1,0 +1,3073 @@
+{
+    "ragas": [
+        {
+            "raaga_id": "kanakangi",
+            "name": "Kanakangi",
+            "type": "Janaka",
+            "melakarta_number": "1",
+            "arohanam": "S R\u2081 G\u2081 M\u2081 P D\u2081 N\u2081 \u1e60",
+            "avarohanam": "\u1e60 N\u2081 D\u2081 P M\u2081 G\u2081 R\u2081 S",
+            "moods": [
+                "Pathos"
+            ],
+            "time_of_day": "Any",
+            "swara_count_category": "Sampurna-Sampurna",
+            "pattern_category": [],
+            "melakarta_chakra": "Indu"
+        },
+        {
+            "raaga_id": "ratnangi",
+            "name": "Ratnangi",
+            "type": "Janaka",
+            "melakarta_number": "2",
+            "arohanam": "S R\u2081 G\u2081 M\u2081 P D\u2081 N\u2082 \u1e60",
+            "avarohanam": "\u1e60 N\u2082 D\u2081 P M\u2081 G\u2081 R\u2081 S",
+            "moods": [
+                "Devotion",
+                "Awe"
+            ],
+            "time_of_day": "Any",
+            "swara_count_category": "Sampurna-Sampurna",
+            "pattern_category": [],
+            "melakarta_chakra": "Indu"
+        },
+        {
+            "raaga_id": "ganamurti",
+            "name": "Ganamurti",
+            "type": "Janaka",
+            "melakarta_number": "3",
+            "arohanam": "S R\u2081 G\u2081 M\u2081 P D\u2081 N\u2083 \u1e60",
+            "avarohanam": "\u1e60 N\u2083 D\u2081 P M\u2081 G\u2081 R\u2081 S",
+            "moods": [
+                "Devotion"
+            ],
+            "time_of_day": "Any",
+            "swara_count_category": "Sampurna-Sampurna",
+            "pattern_category": [],
+            "melakarta_chakra": "Indu"
+        },
+        {
+            "raaga_id": "vanaspati",
+            "name": "Vanaspati",
+            "type": "Janaka",
+            "melakarta_number": "4",
+            "arohanam": "S R\u2081 G\u2081 M\u2081 P D\u2082 N\u2082 \u1e60",
+            "avarohanam": "\u1e60 N\u2082 D\u2082 P M\u2081 G\u2081 R\u2081 S",
+            "moods": [
+                "Awe"
+            ],
+            "time_of_day": "Any",
+            "swara_count_category": "Sampurna-Sampurna",
+            "pattern_category": [],
+            "melakarta_chakra": "Indu"
+        },
+        {
+            "raaga_id": "manavati",
+            "name": "Manavati",
+            "type": "Janaka",
+            "melakarta_number": "5",
+            "arohanam": "S R\u2081 G\u2081 M\u2081 P D\u2082 N\u2083 \u1e60",
+            "avarohanam": "\u1e60 N\u2083 D\u2082 P M\u2081 G\u2081 R\u2081 S",
+            "moods": [
+                "Shringara"
+            ],
+            "time_of_day": "Any",
+            "swara_count_category": "Sampurna-Sampurna",
+            "pattern_category": [],
+            "melakarta_chakra": "Indu"
+        },
+        {
+            "raaga_id": "tanarupi",
+            "name": "Tanarupi",
+            "type": "Janaka",
+            "melakarta_number": "6",
+            "arohanam": "S R\u2081 G\u2081 M\u208₁ P D\u208₃ N\u208₃ \u1e60",
+            "avarohanam": "\u1e60 N\u208₃ D\u208₃ P M\u208₁ G\u208₁ R\u208₁ S",
+            "moods": [
+                "Wonder"
+            ],
+            "time_of_day": "Any",
+            "swara_count_category": "Sampurna-Sampurna",
+            "pattern_category": [],
+            "melakarta_chakra": "Indu"
+        },
+        {
+            "raaga_id": "senavati",
+            "name": "Senavati",
+            "type": "Janaka",
+            "melakarta_number": "7",
+            "arohanam": "S R\u2081 G\u208₂ M\u208₁ P D\u208₁ N\u208₁ \u1e60",
+            "avarohanam": "\u1e60 N\u208₁ D\u208₁ P M\u208₁ G\u208₂ R\u208₁ S",
+            "moods": [
+                "Devotion"
+            ],
+            "time_of_day": "Any",
+            "swara_count_category": "Sampurna-Sampurna",
+            "pattern_category": [],
+            "melakarta_chakra": "Netra"
+        },
+        {
+            "raaga_id": "hanumatodi",
+            "name": "Hanumatodi",
+            "type": "Janaka",
+            "melakarta_number": "8",
+            "arohanam": "S R\u208₁ G\u208₂ M\u208₁ P D\u208₁ N\u208₂ \u1e60",
+            "avarohanam": "\u1e60 N\u208₂ D\u208₁ P M\u208₁ G\u208₂ R\u208₁ S",
+            "moods": [
+                "Pathos",
+                "Devotion"
+            ],
+            "time_of_day": "Any",
+            "swara_count_category": "Sampurna-Sampurna",
+            "pattern_category": [],
+            "melakarta_chakra": "Netra"
+        },
+        {
+            "raaga_id": "dhenuka",
+            "name": "Dhenuka",
+            "type": "Janaka",
+            "melakarta_number": "9",
+            "arohanam": "S R\u208₁ G\u208₂ M\u208₁ P D\u208₁ N\u208₃ \u1e60",
+            "avarohanam": "\u1e60 N\u208₃ D\u208₁ P M\u208₁ G\u208₂ R\u208₁ S",
+            "moods": [
+                "Pathos",
+                "Karuna"
+            ],
+            "time_of_day": "Any",
+            "swara_count_category": "Sampurna-Sampurna",
+            "pattern_category": [],
+            "melakarta_chakra": "Netra"
+        },
+        {
+            "raaga_id": "natakapriya",
+            "name": "Natakapriya",
+            "type": "Janaka",
+            "melakarta_number": "10",
+            "arohanam": "S R\u208₁ G\u208₂ M\u208₁ P D\u208₂ N\u208₂ \u1e60",
+            "avarohanam": "\u1e60 N\u208₂ D\u208₂ P M\u208₁ G\u208₂ R\u208₁ S",
+            "moods": [
+                "Heroism",
+                "Pathos"
+            ],
+            "time_of_day": "Any",
+            "swara_count_category": "Sampurna-Sampurna",
+            "pattern_category": [],
+            "melakarta_chakra": "Netra"
+        },
+        {
+            "raaga_id": "kokilapriya",
+            "name": "Kokilapriya",
+            "type": "Janaka",
+            "melakarta_number": "11",
+            "arohanam": "S R\u208₁ G\u208₂ M\u208₁ P D\u208₂ N\u208₃ \u1e60",
+            "avarohanam": "\u1e60 N\u208₃ D\u208₂ P M\u208₁ G\u208₂ R\u208₁ S",
+            "moods": [
+                "Love",
+                "Pathos"
+            ],
+            "time_of_day": "Any",
+            "swara_count_category": "Sampurna-Sampurna",
+            "pattern_category": [],
+            "melakarta_chakra": "Netra"
+        },
+        {
+            "raaga_id": "rupavati",
+            "name": "Rupavati",
+            "type": "Janaka",
+            "melakarta_number": "12",
+            "arohanam": "S R\u208₁ G\u208₂ M\u208₁ P D\u208₃ N\u208₃ \u1e60",
+            "avarohanam": "\u1e60 N\u208₃ D\u208₃ P M\u208₁ G\u208₂ R\u208₁ S",
+            "moods": [
+                "Awe",
+                "Wonder"
+            ],
+            "time_of_day": "Any",
+            "swara_count_category": "Sampurna-Sampurna",
+            "pattern_category": [],
+            "melakarta_chakra": "Netra"
+        },
+        {
+            "raaga_id": "gayakapriya",
+            "name": "Gayakapriya",
+            "type": "Janaka",
+            "melakarta_number": "13",
+            "arohanam": "S R\u208₁ G\u208₃ M\u208₁ P D\u208₁ N\u208₁ \u1e60",
+            "avarohanam": "\u1e60 N\u208₁ D\u208₁ P M\u208₁ G\u208₃ R\u208₁ S",
+            "moods": [
+                "Devotion"
+            ],
+            "time_of_day": "Any",
+            "swara_count_category": "Sampurna-Sampurna",
+            "pattern_category": [],
+            "melakarta_chakra": "Agni"
+        },
+        {
+            "raaga_id": "vakulabharanam",
+            "name": "Vakulabharanam",
+            "type": "Janaka",
+            "melakarta_number": "14",
+            "arohanam": "S R\u208₁ G\u208₃ M\u208₁ P D\u208₁ N\u208₂ \u1e60",
+            "avarohanam": "\u1e60 N\u208₂ D\u208₁ P M\u208₁ G\u208₃ R\u208₁ S",
+            "moods": [
+                "Pathos"
+            ],
+            "time_of_day": "Any",
+            "swara_count_category": "Sampurna-Sampurna",
+            "pattern_category": [],
+            "melakarta_chakra": "Agni"
+        },
+        {
+            "raaga_id": "mayamalavagowla",
+            "name": "Mayamalavagowla",
+            "type": "Janaka",
+            "melakarta_number": "15",
+            "arohanam": "S R\u208₁ G\u208₃ M\u208₁ P D\u208₁ N\u208₃ \u1e60",
+            "avarohanam": "\u1e60 N\u208₃ D\u208₁ P M\u208₁ G\u208₃ R\u208₁ S",
+            "moods": [
+                "Devotion",
+                "Peace",
+                "Karuna"
+            ],
+            "time_of_day": "Morning",
+            "swara_count_category": "Sampurna-Sampurna",
+            "pattern_category": [],
+            "melakarta_chakra": "Agni"
+        },
+        {
+            "raaga_id": "chakravakam",
+            "name": "Chakravakam",
+            "type": "Janaka",
+            "melakarta_number": "16",
+            "arohanam": "S R\u208₁ G\u208₃ M\u208₁ P D\u208₂ N\u208₂ \u1e60",
+            "avarohanam": "\u1e60 N\u208₂ D\u208₂ P M\u208₁ G\u208₃ R\u208₁ S",
+            "moods": [
+                "Devotion"
+            ],
+            "time_of_day": "Any",
+            "swara_count_category": "Sampurna-Sampurna",
+            "pattern_category": [],
+            "melakarta_chakra": "Agni"
+        },
+        {
+            "raaga_id": "suryakantam",
+            "name": "Suryakantam",
+            "type": "Janaka",
+            "melakarta_number": "17",
+            "arohanam": "S R\u208₁ G\u208₃ M\u208₁ P D\u208₂ N\u208₃ \u1e60",
+            "avarohanam": "\u1e60 N\u208₃ D\u208₂ P M\u208₁ G\u208₃ R\u208₁ S",
+            "moods": [
+                "Energy",
+                "Awe"
+            ],
+            "time_of_day": "Any",
+            "swara_count_category": "Sampurna-Sampurna",
+            "pattern_category": [],
+            "melakarta_chakra": "Agni"
+        },
+        {
+            "raaga_id": "hatakambari",
+            "name": "Hatakambari",
+            "type": "Janaka",
+            "melakarta_number": "18",
+            "arohanam": "S R\u208₁ G\u208₃ M\u208₁ P D\u208₃ N\u208₃ \u1e60",
+            "avarohanam": "\u1e60 N\u208₃ D\u208₃ P M\u208₁ G\u208₃ R\u208₁ S",
+            "moods": [
+                "Energy",
+                "Awe"
+            ],
+            "time_of_day": "Any",
+            "swara_count_category": "Sampurna-Sampurna",
+            "pattern_category": [],
+            "melakarta_chakra": "Agni"
+        },
+        {
+            "raaga_id": "jhankaradhwani",
+            "name": "Jhankaradhwani",
+            "type": "Janaka",
+            "melakarta_number": "19",
+            "arohanam": "S R\u208₂ G\u208₂ M\u208₁ P D\u208₁ N\u208₁ \u1e60",
+            "avarohanam": "\u1e60 N\u208₁ D\u208₁ P M\u208₁ G\u208₂ R\u208₂ S",
+            "moods": [
+                "Energy",
+                "Awe"
+            ],
+            "time_of_day": "Any",
+            "swara_count_category": "Sampurna-Sampurna",
+            "pattern_category": [],
+            "melakarta_chakra": "Veda"
+        },
+        {
+            "raaga_id": "natabhairavi",
+            "name": "Natabhairavi",
+            "type": "Janaka",
+            "melakarta_number": "20",
+            "arohanam": "S R\u208₂ G\u208₂ M\u208₁ P D\u208₁ N\u208₂ \u1e60",
+            "avarohanam": "\u1e60 N\u208₂ D\u208₁ P M\u208₁ G\u208₂ R\u208₂ S",
+            "moods": [
+                "Devotion",
+                "Pathos"
+            ],
+            "time_of_day": "Any",
+            "swara_count_category": "Sampurna-Sampurna",
+            "pattern_category": [],
+            "melakarta_chakra": "Veda"
+        },
+        {
+            "raaga_id": "keeravani",
+            "name": "Keeravani",
+            "type": "Janaka",
+            "melakarta_number": "21",
+            "arohanam": "S R\u208₂ G\u208₂ M\u208₁ P D\u208₁ N\u208₃ \u1e60",
+            "avarohanam": "\u1e60 N\u208₃ D\u208₁ P M\u208₁ G\u208₂ R\u208₂ S",
+            "moods": [
+                "Devotion",
+                "Pathos",
+                "Shringara"
+            ],
+            "time_of_day": "Any",
+            "swara_count_category": "Sampurna-Sampurna",
+            "pattern_category": [],
+            "melakarta_chakra": "Veda"
+        },
+        {
+            "raaga_id": "kharaharapriya",
+            "name": "Kharaharapriya",
+            "type": "Janaka",
+            "melakarta_number": "22",
+            "arohanam": "S R\u208₂ G\u208₂ M\u208₁ P D\u208₂ N\u208₂ \u1e60",
+            "avarohanam": "\u1e60 N\u208₂ D\u208₂ P M\u208₁ G\u208₂ R\u208₂ S",
+            "moods": [
+                "Pathos",
+                "Shringara"
+            ],
+            "time_of_day": "Any",
+            "swara_count_category": "Sampurna-Sampurna",
+            "pattern_category": [],
+            "melakarta_chakra": "Veda"
+        },
+        {
+            "raaga_id": "gourimanohari",
+            "name": "Gourimanohari",
+            "type": "Janaka",
+            "melakarta_number": "23",
+            "arohanam": "S R\u208₂ G\u208₂ M\u208₁ P D\u208₂ N\u208₃ \u1e60",
+            "avarohanam": "\u1e60 N\u208₃ D\u208₂ P M\u208₁ G\u208₂ R\u208₂ S",
+            "moods": [
+                "Devotion",
+                "Pathos"
+            ],
+            "time_of_day": "Any",
+            "swara_count_category": "Sampurna-Sampurna",
+            "pattern_category": [],
+            "melakarta_chakra": "Veda"
+        },
+        {
+            "raaga_id": "varunapriya",
+            "name": "Varunapriya",
+            "type": "Janaka",
+            "melakarta_number": "24",
+            "arohanam": "S R\u208₂ G\u208₂ M\u208₁ P D\u208₃ N\u208₃ \u1e60",
+            "avarohanam": "\u1e60 N\u208₃ D\u208₃ P M\u208₁ G\u208₂ R\u208₂ S",
+            "moods": [
+                "Pathos"
+            ],
+            "time_of_day": "Any",
+            "swara_count_category": "Sampurna-Sampurna",
+            "pattern_category": [],
+            "melakarta_chakra": "Veda"
+        },
+        {
+            "raaga_id": "mararanjani",
+            "name": "Mararanjani",
+            "type": "Janaka",
+            "melakarta_number": "25",
+            "arohanam": "S R\u208₂ G\u208₃ M\u208₁ P D\u208₁ N\u208₁ \u1e60",
+            "avarohanam": "\u1e60 N\u208₁ D\u208₁ P M\u208₁ G\u208₃ R\u208₂ S",
+            "moods": [
+                "Heroism"
+            ],
+            "time_of_day": "Any",
+            "swara_count_category": "Sampurna-Sampurna",
+            "pattern_category": [],
+            "melakarta_chakra": "Bana"
+        },
+        {
+            "raaga_id": "charukesi",
+            "name": "Charukesi",
+            "type": "Janaka",
+            "melakarta_number": "26",
+            "arohanam": "S R\u208₂ G\u208₃ M\u208₁ P D\u208₁ N\u208₂ \u1e60",
+            "avarohanam": "\u1e60 N\u208₂ D\u208₁ P M\u208₁ G\u208₃ R\u208₂ S",
+            "moods": [
+                "Devotion",
+                "Pathos"
+            ],
+            "time_of_day": "Any",
+            "swara_count_category": "Sampurna-Sampurna",
+            "pattern_category": [],
+            "melakarta_chakra": "Bana"
+        },
+        {
+            "raaga_id": "sarasangi",
+            "name": "Sarasangi",
+            "type": "Janaka",
+            "melakarta_number": "27",
+            "arohanam": "S R\u208₂ G\u208₃ M\u208₁ P D\u208₁ N\u208₃ \u1e60",
+            "avarohanam": "\u1e60 N\u208₃ D\u208₁ P M\u208₁ G\u208₃ R\u208₂ S",
+            "moods": [
+                "Devotion",
+                "Peace"
+            ],
+            "time_of_day": "Any",
+            "swara_count_category": "Sampurna-Sampurna",
+            "pattern_category": [],
+            "melakarta_chakra": "Bana"
+        },
+        {
+            "raaga_id": "harikambhoji",
+            "name": "Harikambhoji",
+            "type": "Janaka",
+            "melakarta_number": "28",
+            "arohanam": "S R\u208₂ G\u208₃ M\u208₁ P D\u208₂ N\u208₂ \u1e60",
+            "avarohanam": "\u1e60 N\u208₂ D\u208₂ P M\u208₁ G\u208₃ R\u208₂ S",
+            "moods": [
+                "Joyful",
+                "Pleasant"
+            ],
+            "time_of_day": "Any",
+            "swara_count_category": "Sampurna-Sampurna",
+            "pattern_category": [],
+            "melakarta_chakra": "Bana"
+        },
+        {
+            "raaga_id": "shankarabharanam",
+            "name": "Shankarabharanam",
+            "type": "Janaka",
+            "melakarta_number": "29",
+            "arohanam": "S R\u208₂ G\u208₃ M\u208₁ P D\u208₂ N\u208₃ \u1e60",
+            "avarohanam": "\u1e60 N\u208₃ D\u208₂ P M\u208₁ G\u208₃ R\u208₂ S",
+            "moods": [
+                "Majestic",
+                "Joyful"
+            ],
+            "time_of_day": "Any",
+            "swara_count_category": "Sampurna-Sampurna",
+            "pattern_category": [],
+            "melakarta_chakra": "Bana"
+        },
+        {
+            "raaga_id": "nagagandhari",
+            "name": "Nagagandhari",
+            "type": "Janaka",
+            "melakarta_number": "30",
+            "arohanam": "S R\u208₂ G\u208₃ M\u208₁ P D\u208₃ N\u208₃ \u1e60",
+            "avarohanam": "\u1e60 N\u208₃ D\u208₃ P M\u208₁ G\u208₃ R\u208₂ S",
+            "moods": [
+                "Energy",
+                "Awe"
+            ],
+            "time_of_day": "Any",
+            "swara_count_category": "Sampurna-Sampurna",
+            "pattern_category": [],
+            "melakarta_chakra": "Bana"
+        },
+        {
+            "raaga_id": "yagapriya",
+            "name": "Yagapriya",
+            "type": "Janaka",
+            "melakarta_number": "31",
+            "arohanam": "S R\u208₃ G\u208₃ M\u208₁ P D\u208₁ N\u208₁ \u1e60",
+            "avarohanam": "\u1e60 N\u208₁ D\u208₁ P M\u208₁ G\u208₃ R\u208₃ S",
+            "moods": [],
+            "time_of_day": "Any",
+            "swara_count_category": "Sampurna-Sampurna",
+            "pattern_category": [],
+            "melakarta_chakra": "Rutu"
+        },
+        {
+            "raaga_id": "ragavardhini",
+            "name": "Ragavardhini",
+            "type": "Janaka",
+            "melakarta_number": "32",
+            "arohanam": "S R\u208₃ G\u208₃ M\u208₁ P D\u208₁ N\u208₂ \u1e60",
+            "avarohanam": "\u1e60 N\u208₂ D\u208₁ P M\u208₁ G\u208₃ R\u208₃ S",
+            "moods": [],
+            "time_of_day": "Any",
+            "swara_count_category": "Sampurna-Sampurna",
+            "pattern_category": [],
+            "melakarta_chakra": "Rutu"
+        },
+        {
+            "raaga_id": "gangeyabhushani",
+            "name": "Gangeyabhushani",
+            "type": "Janaka",
+            "melakarta_number": "33",
+            "arohanam": "S R\u208₃ G\u208₃ M\u208₁ P D\u208₁ N\u208₃ \u1e60",
+            "avarohanam": "\u1e60 N\u208₃ D\u208₁ P M\u208₁ G\u208₃ R\u208₃ S",
+            "moods": [],
+            "time_of_day": "Any",
+            "swara_count_category": "Sampurna-Sampurna",
+            "pattern_category": [],
+            "melakarta_chakra": "Rutu"
+        },
+        {
+            "raaga_id": "vagadheeswari",
+            "name": "Vagadheeswari",
+            "type": "Janaka",
+            "melakarta_number": "34",
+            "arohanam": "S R\u208₃ G\u208₃ M\u208₁ P D\u208₂ N\u208₂ \u1e60",
+            "avarohanam": "\u1e60 N\u208₂ D\u208₂ P M\u208₁ G\u208₃ R\u208₃ S",
+            "moods": [],
+            "time_of_day": "Any",
+            "swara_count_category": "Sampurna-Sampurna",
+            "pattern_category": [],
+            "melakarta_chakra": "Rutu"
+        },
+        {
+            "raaga_id": "shulini",
+            "name": "Shulini",
+            "type": "Janaka",
+            "melakarta_number": "35",
+            "arohanam": "S R\u208₃ G\u208₃ M\u208₁ P D\u208₂ N\u208₃ \u1e60",
+            "avarohanam": "\u1e60 N\u208₃ D\u208₂ P M\u208₁ G\u208₃ R\u208₃ S",
+            "moods": [],
+            "time_of_day": "Any",
+            "swara_count_category": "Sampurna-Sampurna",
+            "pattern_category": [],
+            "melakarta_chakra": "Rutu"
+        },
+        {
+            "raaga_id": "chalanata",
+            "name": "Chalanata",
+            "type": "Janaka",
+            "melakarta_number": "36",
+            "arohanam": "S R\u208₃ G\u208₃ M\u208₁ P D\u208₃ N\u208₃ \u1e60",
+            "avarohanam": "\u1e60 N\u208₃ D\u208₃ P M\u208₁ G\u208₃ R\u208₃ S",
+            "moods": [],
+            "time_of_day": "Any",
+            "swara_count_category": "Sampurna-Sampurna",
+            "pattern_category": [],
+            "melakarta_chakra": "Rutu"
+        },
+        {
+            "raaga_id": "salagam",
+            "name": "Salagam",
+            "type": "Janaka",
+            "melakarta_number": "37",
+            "arohanam": "S R\u208₁ G\u208₁ M\u208₂ P D\u208₁ N\u208₁ \u1e60",
+            "avarohanam": "\u1e60 N\u208₁ D\u208₁ P M\u208₂ G\u208₁ R\u208₁ S",
+            "moods": [],
+            "time_of_day": "Any",
+            "swara_count_category": "Sampurna-Sampurna",
+            "pattern_category": [],
+            "melakarta_chakra": "Rishi"
+        },
+        {
+            "raaga_id": "jalarnavam",
+            "name": "Jalarnavam",
+            "type": "Janaka",
+            "melakarta_number": "38",
+            "arohanam": "S R\u208₁ G\u208₁ M\u208₂ P D\u208₁ N\u208₂ \u1e60",
+            "avarohanam": "\u1e60 N\u208₂ D\u208₁ P M\u208₂ G\u208₁ R\u208₁ S",
+            "moods": [],
+            "time_of_day": "Any",
+            "swara_count_category": "Sampurna-Sampurna",
+            "pattern_category": [],
+            "melakarta_chakra": "Rishi"
+        },
+        {
+            "raaga_id": "jhalavarali",
+            "name": "Jhalavarali",
+            "type": "Janaka",
+            "melakarta_number": "39",
+            "arohanam": "S R\u208₁ G\u208₁ M\u208₂ P D\u208₁ N\u208₃ \u1e60",
+            "avarohanam": "\u1e60 N\u208₃ D\u208₁ P M\u208₂ G\u208₁ R\u208₁ S",
+            "moods": [],
+            "time_of_day": "Any",
+            "swara_count_category": "Sampurna-Sampurna",
+            "pattern_category": [],
+            "melakarta_chakra": "Rishi"
+        },
+        {
+            "raaga_id": "navaneetam",
+            "name": "Navaneetam",
+            "type": "Janaka",
+            "melakarta_number": "40",
+            "arohanam": "S R\u208₁ G\u208₁ M\u208₂ P D\u208₂ N\u208₂ \u1e60",
+            "avarohanam": "\u1e60 N\u208₂ D\u208₂ P M\u208₂ G\u208₁ R\u208₁ S",
+            "moods": [],
+            "time_of_day": "Any",
+            "swara_count_category": "Sampurna-Sampurna",
+            "pattern_category": [],
+            "melakarta_chakra": "Rishi"
+        },
+        {
+            "raaga_id": "pavani",
+            "name": "Pavani",
+            "type": "Janaka",
+            "melakarta_number": "41",
+            "arohanam": "S R\u208₁ G\u208₁ M\u208₂ P D\u208₂ N\u208₃ \u1e60",
+            "avarohanam": "\u1e60 N\u208₃ D\u208₂ P M\u208₂ G\u208₁ R\u208₁ S",
+            "moods": [],
+            "time_of_day": "Any",
+            "swara_count_category": "Sampurna-Sampurna",
+            "pattern_category": [],
+            "melakarta_chakra": "Rishi"
+        },
+        {
+            "raaga_id": "raghupriya",
+            "name": "Raghupriya",
+            "type": "Janaka",
+            "melakarta_number": "42",
+            "arohanam": "S R\u208₁ G\u208₁ M\u208₂ P D\u208₃ N\u208₃ \u1e60",
+            "avarohanam": "\u1e60 N\u208₃ D\u208₃ P M\u208₂ G\u208₁ R\u208₁ S",
+            "moods": [],
+            "time_of_day": "Any",
+            "swara_count_category": "Sampurna-Sampurna",
+            "pattern_category": [],
+            "melakarta_chakra": "Rishi"
+        },
+        {
+            "raaga_id": "gavambhodi",
+            "name": "Gavambhodi",
+            "type": "Janaka",
+            "melakarta_number": "43",
+            "arohanam": "S R\u208₁ G\u208₂ M\u208₂ P D\u208₁ N\u208₁ \u1e60",
+            "avarohanam": "\u1e60 N\u208₁ D\u208₁ P M\u208₂ G\u208₂ R\u208₁ S",
+            "moods": [],
+            "time_of_day": "Any",
+            "swara_count_category": "Sampurna-Sampurna",
+            "pattern_category": [],
+            "melakarta_chakra": "Vasu"
+        },
+        {
+            "raaga_id": "bhavapriya",
+            "name": "Bhavapriya",
+            "type": "Janaka",
+            "melakarta_number": "44",
+            "arohanam": "S R\u208₁ G\u208₂ M\u208₂ P D\u208₁ N\u208₂ \u1e60",
+            "avarohanam": "\u1e60 N\u208₂ D\u208₁ P M\u208₂ G\u208₂ R\u208₁ S",
+            "moods": [],
+            "time_of_day": "Any",
+            "swara_count_category": "Sampurna-Sampurna",
+            "pattern_category": [],
+            "melakarta_chakra": "Vasu"
+        },
+        {
+            "raaga_id": "shubhapantuvarali",
+            "name": "Shubhapantuvarali",
+            "type": "Janaka",
+            "melakarta_number": "45",
+            "arohanam": "S R\u208₁ G\u208₂ M\u208₂ P D\u208₁ N\u208₃ \u1e60",
+            "avarohanam": "\u1e60 N\u208₃ D\u208₁ P M\u208₂ G\u208₂ R\u208₁ S",
+            "moods": [],
+            "time_of_day": "Any",
+            "swara_count_category": "Sampurna-Sampurna",
+            "pattern_category": [],
+            "melakarta_chakra": "Vasu"
+        },
+        {
+            "raaga_id": "shadvidhamargini",
+            "name": "Shadvidhamargini",
+            "type": "Janaka",
+            "melakarta_number": "46",
+            "arohanam": "S R\u208₁ G\u208₂ M\u208₂ P D\u208₂ N\u208₂ \u1e60",
+            "avarohanam": "\u1e60 N\u208₂ D\u208₂ P M\u208₂ G\u208₂ R\u208₁ S",
+            "moods": [],
+            "time_of_day": "Any",
+            "swara_count_category": "Sampurna-Sampurna",
+            "pattern_category": [],
+            "melakarta_chakra": "Vasu"
+        },
+        {
+            "raaga_id": "suvarnangi",
+            "name": "Suvarnangi",
+            "type": "Janaka",
+            "melakarta_number": "47",
+            "arohanam": "S R\u208₁ G\u208₂ M\u208₂ P D\u208₂ N\u208₃ \u1e60",
+            "avarohanam": "\u1e60 N\u208₃ D\u208₂ P M\u208₂ G\u208₂ R\u208₁ S",
+            "moods": [],
+            "time_of_day": "Any",
+            "swara_count_category": "Sampurna-Sampurna",
+            "pattern_category": [],
+            "melakarta_chakra": "Vasu"
+        },
+        {
+            "raaga_id": "divyamani",
+            "name": "Divyamani",
+            "type": "Janaka",
+            "melakarta_number": "48",
+            "arohanam": "S R\u208₁ G\u208₂ M\u208₂ P D\u208₃ N\u208₃ \u1e60",
+            "avarohanam": "\u1e60 N\u208₃ D\u208₃ P M\u208₂ G\u208₂ R\u208₁ S",
+            "moods": [],
+            "time_of_day": "Any",
+            "swara_count_category": "Sampurna-Sampurna",
+            "pattern_category": [],
+            "melakarta_chakra": "Vasu"
+        },
+        {
+            "raaga_id": "dhavalambari",
+            "name": "Dhavalambari",
+            "type": "Janaka",
+            "melakarta_number": "49",
+            "arohanam": "S R\u208₁ G\u208₃ M\u208₂ P D\u208₁ N\u208₁ \u1e60",
+            "avarohanam": "\u1e60 N\u208₁ D\u208₁ P M\u208₂ G\u208₃ R\u208₁ S",
+            "moods": [],
+            "time_of_day": "Any",
+            "swara_count_category": "Sampurna-Sampurna",
+            "pattern_category": [],
+            "melakarta_chakra": "Brahma"
+        },
+        {
+            "raaga_id": "namanarayani",
+            "name": "Namanarayani",
+            "type": "Janaka",
+            "melakarta_number": "50",
+            "arohanam": "S R\u208₁ G\u208₃ M\u208₂ P D\u208₁ N\u208₂ \u1e60",
+            "avarohanam": "\u1e60 N\u208₂ D\u208₁ P M\u208₂ G\u208₃ R\u208₁ S",
+            "moods": [],
+            "time_of_day": "Any",
+            "swara_count_category": "Sampurna-Sampurna",
+            "pattern_category": [],
+            "melakarta_chakra": "Brahma"
+        },
+        {
+            "raaga_id": "kamavardhini",
+            "name": "Kamavardhini",
+            "type": "Janaka",
+            "melakarta_number": "51",
+            "arohanam": "S R\u208₁ G\u208₃ M\u208₂ P D\u208₁ N\u208₃ \u1e60",
+            "avarohanam": "\u1e60 N\u208₃ D\u208₁ P M\u208₂ G\u208₃ R\u208₁ S",
+            "moods": [],
+            "time_of_day": "Any",
+            "swara_count_category": "Sampurna-Sampurna",
+            "pattern_category": [],
+            "melakarta_chakra": "Brahma"
+        },
+        {
+            "raaga_id": "ramapriya",
+            "name": "Ramapriya",
+            "type": "Janaka",
+            "melakarta_number": "52",
+            "arohanam": "S R\u208₁ G\u208₃ M\u208₂ P D\u208₂ N\u208₂ \u1e60",
+            "avarohanam": "\u1e60 N\u208₂ D\u208₂ P M\u208₂ G\u208₃ R\u208₁ S",
+            "moods": [],
+            "time_of_day": "Any",
+            "swara_count_category": "Sampurna-Sampurna",
+            "pattern_category": [],
+            "melakarta_chakra": "Brahma"
+        },
+        {
+            "raaga_id": "gamanashrama",
+            "name": "Gamanashrama",
+            "type": "Janaka",
+            "melakarta_number": "53",
+            "arohanam": "S R\u208₁ G\u208₃ M\u208₂ P D\u208₂ N\u208₃ \u1e60",
+            "avarohanam": "\u1e60 N\u208₃ D\u208₂ P M\u208₂ G\u208₃ R\u208₁ S",
+            "moods": [],
+            "time_of_day": "Any",
+            "swara_count_category": "Sampurna-Sampurna",
+            "pattern_category": [],
+            "melakarta_chakra": "Brahma"
+        },
+        {
+            "raaga_id": "viswambari",
+            "name": "Viswambari",
+            "type": "Janaka",
+            "melakarta_number": "54",
+            "arohanam": "S R\u208₁ G\u208₃ M\u208₂ P D\u208₃ N\u208₃ \u1e60",
+            "avarohanam": "\u1e60 N\u208₃ D\u208₃ P M\u208₂ G\u208₃ R\u208₁ S",
+            "moods": [],
+            "time_of_day": "Any",
+            "swara_count_category": "Sampurna-Sampurna",
+            "pattern_category": [],
+            "melakarta_chakra": "Brahma"
+        },
+        {
+            "raaga_id": "shamalangi",
+            "name": "Shamalangi",
+            "type": "Janaka",
+            "melakarta_number": "55",
+            "arohanam": "S R\u208₂ G\u208₂ M\u208₂ P D\u208₁ N\u208₁ \u1e60",
+            "avarohanam": "\u1e60 N\u208₁ D\u208₁ P M\u208₂ G\u208₂ R\u208₂ S",
+            "moods": [],
+            "time_of_day": "Any",
+            "swara_count_category": "Sampurna-Sampurna",
+            "pattern_category": [],
+            "melakarta_chakra": "Disi"
+        },
+        {
+            "raaga_id": "simhendramadhyamam",
+            "name": "Simhendramadhyamam",
+            "type": "Janaka",
+            "melakarta_number": "57",
+            "arohanam": "S R\u208₂ G\u208₂ M\u208₂ P D\u208₁ N\u208₃ \u1e60",
+            "avarohanam": "\u1e60 N\u208₃ D\u208₁ P M\u208₂ G\u208₂ R\u208₂ S",
+            "moods": [],
+            "time_of_day": "Any",
+            "swara_count_category": "Sampurna-Sampurna",
+            "pattern_category": [],
+            "melakarta_chakra": "Disi"
+        },
+        {
+            "raaga_id": "hemavati",
+            "name": "Hemavati",
+            "type": "Janaka",
+            "melakarta_number": "58",
+            "arohanam": "S R\u208₂ G\u208₂ M\u208₂ P D\u208₂ N\u208₂ \u1e60",
+            "avarohanam": "\u1e60 N\u208₂ D\u208₂ P M\u208₂ G\u208₂ R\u208₂ S",
+            "moods": [],
+            "time_of_day": "Any",
+            "swara_count_category": "Sampurna-Sampurna",
+            "pattern_category": [],
+            "melakarta_chakra": "Disi"
+        },
+        {
+            "raaga_id": "dharmavati",
+            "name": "Dharmavati",
+            "type": "Janaka",
+            "melakarta_number": "59",
+            "arohanam": "S R\u208₂ G\u208₂ M\u208₂ P D\u208₂ N\u208₃ \u1e60",
+            "avarohanam": "\u1e60 N\u208₃ D\u208₂ P M\u208₂ G\u208₂ R\u208₂ S",
+            "moods": [],
+            "time_of_day": "Any",
+            "swara_count_category": "Sampurna-Sampurna",
+            "pattern_category": [],
+            "melakarta_chakra": "Disi"
+        },
+        {
+            "raaga_id": "nitimati",
+            "name": "Nitimati",
+            "type": "Janaka",
+            "melakarta_number": "60",
+            "arohanam": "S R\u208₂ G\u208₂ M\u208₂ P D\u208₃ N\u208₃ \u1e60",
+            "avarohanam": "\u1e60 N\u208₃ D\u208₃ P M\u208₂ G\u208₂ R\u208₂ S",
+            "moods": [],
+            "time_of_day": "Any",
+            "swara_count_category": "Sampurna-Sampurna",
+            "pattern_category": [],
+            "melakarta_chakra": "Disi"
+        },
+        {
+            "raaga_id": "kantamani",
+            "name": "Kantamani",
+            "type": "Janaka",
+            "melakarta_number": "61",
+            "arohanam": "S R\u208₂ G\u208₃ M\u208₂ P D\u208₁ N\u208₁ \u1e60",
+            "avarohanam": "\u1e60 N\u208₁ D\u208₁ P M\u208₂ G\u208₃ R\u208₂ S",
+            "moods": [],
+            "time_of_day": "Any",
+            "swara_count_category": "Sampurna-Sampurna",
+            "pattern_category": [],
+            "melakarta_chakra": "Rudra"
+        },
+        {
+            "raaga_id": "rishabhapriya",
+            "name": "Rishabhapriya",
+            "type": "Janaka",
+            "melakarta_number": "62",
+            "arohanam": "S R\u208₂ G\u208₃ M\u208₂ P D\u208₁ N\u208₂ \u1e60",
+            "avarohanam": "\u1e60 N\u208₂ D\u208₁ P M\u208₂ G\u208₃ R\u208₂ S",
+            "moods": [],
+            "time_of_day": "Any",
+            "swara_count_category": "Sampurna-Sampurna",
+            "pattern_category": [],
+            "melakarta_chakra": "Rudra"
+        },
+        {
+            "raaga_id": "latangi",
+            "name": "Latangi",
+            "type": "Janaka",
+            "melakarta_number": "63",
+            "arohanam": "S R\u208₂ G\u208₃ M\u208₂ P D\u208₁ N\u208₃ \u1e60",
+            "avarohanam": "\u1e60 N\u208₃ D\u208₁ P M\u208₂ G\u208₃ R\u208₂ S",
+            "moods": [],
+            "time_of_day": "Any",
+            "swara_count_category": "Sampurna-Sampurna",
+            "pattern_category": [],
+            "melakarta_chakra": "Rudra"
+        },
+        {
+            "raaga_id": "vachaspati",
+            "name": "Vachaspati",
+            "type": "Janaka",
+            "melakarta_number": "64",
+            "arohanam": "S R\u208₂ G\u208₃ M\u208₂ P D\u208₂ N\u208₂ \u1e60",
+            "avarohanam": "\u1e60 N\u208₂ D\u208₂ P M\u208₂ G\u208₃ R\u208₂ S",
+            "moods": [],
+            "time_of_day": "Any",
+            "swara_count_category": "Sampurna-Sampurna",
+            "pattern_category": [],
+            "melakarta_chakra": "Rudra"
+        },
+        {
+            "raaga_id": "mechakalyani",
+            "name": "Mechakalyani",
+            "type": "Janaka",
+            "melakarta_number": "65",
+            "arohanam": "S R\u208₂ G\u208₃ M\u208₂ P D\u208₂ N\u208₃ \u1e60",
+            "avarohanam": "\u1e60 N\u208₃ D\u208₂ P M\u208₂ G\u208₃ R\u208₂ S",
+            "moods": [
+                "Auspicious",
+                "Joyful"
+            ],
+            "time_of_day": "Evening",
+            "swara_count_category": "Sampurna-Sampurna",
+            "pattern_category": [],
+            "melakarta_chakra": "Rudra"
+        },
+        {
+            "raaga_id": "chitrambari",
+            "name": "Chitrambari",
+            "type": "Janaka",
+            "melakarta_number": "66",
+            "arohanam": "S R\u208₂ G\u208₃ M\u208₂ P D\u208₃ N\u208₃ \u1e60",
+            "avarohanam": "\u1e60 N\u208₃ D\u208₃ P M\u208₂ G\u208₃ R\u208₂ S",
+            "moods": [],
+            "time_of_day": "Any",
+            "swara_count_category": "Sampurna-Sampurna",
+            "pattern_category": [],
+            "melakarta_chakra": "Rudra"
+        },
+        {
+            "raaga_id": "sucharitra",
+            "name": "Sucharitra",
+            "type": "Janaka",
+            "melakarta_number": "67",
+            "arohanam": "S R\u208₃ G\u208₃ M\u208₂ P D\u208₁ N\u208₁ \u1e60",
+            "avarohanam": "\u1e60 N\u208₁ D\u208₁ P M\u208₂ G\u208₃ R\u208₃ S",
+            "moods": [],
+            "time_of_day": "Any",
+            "swara_count_category": "Sampurna-Sampurna",
+            "pattern_category": [],
+            "melakarta_chakra": "Aditya"
+        },
+        {
+            "raaga_id": "jyotiswarupini",
+            "name": "Jyotiswarupini",
+            "type": "Janaka",
+            "melakarta_number": "68",
+            "arohanam": "S R\u208₃ G\u208₃ M\u208₂ P D\u208₁ N\u208₂ \u1e60",
+            "avarohanam": "\u1e60 N\u208₂ D\u208₁ P M\u208₂ G\u208₃ R\u208₃ S",
+            "moods": [],
+            "time_of_day": "Any",
+            "swara_count_category": "Sampurna-Sampurna",
+            "pattern_category": [],
+            "melakarta_chakra": "Aditya"
+        },
+        {
+            "raaga_id": "dhatuvardhini",
+            "name": "Dhatuvardhini",
+            "type": "Janaka",
+            "melakarta_number": "69",
+            "arohanam": "S R\u208₃ G\u208₃ M\u208₂ P D\u208₁ N\u208₃ \u1e60",
+            "avarohanam": "\u1e60 N\u208₃ D\u208₁ P M\u208₂ G\u208₃ R\u208₃ S",
+            "moods": [],
+            "time_of_day": "Any",
+            "swara_count_category": "Sampurna-Sampurna",
+            "pattern_category": [],
+            "melakarta_chakra": "Aditya"
+        },
+        {
+            "raaga_id": "nasikabhushani",
+            "name": "Nasikabhushani",
+            "type": "Janaka",
+            "melakarta_number": "70",
+            "arohanam": "S R\u208₃ G\u208₃ M\u208₂ P D\u208₂ N\u208₂ \u1e60",
+            "avarohanam": "\u1e60 N\u208₂ D\u208₂ P M\u208₂ G\u208₃ R\u208₃ S",
+            "moods": [],
+            "time_of_day": "Any",
+            "swara_count_category": "Sampurna-Sampurna",
+            "pattern_category": [],
+            "melakarta_chakra": "Aditya"
+        },
+        {
+            "raaga_id": "kosalam",
+            "name": "Kosalam",
+            "type": "Janaka",
+            "melakarta_number": "71",
+            "arohanam": "S R\u208₃ G\u208₃ M\u208₂ P D\u208₂ N\u208₃ \u1e60",
+            "avarohanam": "\u1e60 N\u208₃ D\u208₂ P M\u208₂ G\u208₃ R\u208₃ S",
+            "moods": [],
+            "time_of_day": "Any",
+            "swara_count_category": "Sampurna-Sampurna",
+            "pattern_category": [],
+            "melakarta_chakra": "Aditya"
+        },
+        {
+            "raaga_id": "rasikapriya",
+            "name": "Rasikapriya",
+            "type": "Janaka",
+            "melakarta_number": "72",
+            "arohanam": "S R\u208₃ G\u208₃ M\u208₂ P D\u208₃ N\u208₃ \u1e60",
+            "avarohanam": "\u1e60 N\u208₃ D\u208₃ P M\u208₂ G\u208₃ R\u208₃ S",
+            "moods": [],
+            "time_of_day": "Any",
+            "swara_count_category": "Sampurna-Sampurna",
+            "pattern_category": [],
+            "melakarta_chakra": "Aditya"
+        },
+        {
+            "raaga_id": "shanmukhapriya",
+            "name": "Shanmukhapriya",
+            "type": "Janaka",
+            "melakarta_number": "56",
+            "arohanam": "S R\u2082 G\u2082 M\u2082 P D\u2081 N\u2082 \u1e60",
+            "avarohanam": "\u1e60 N\u2082 D\u2081 P M\u2082 G\u2082 R\u2082 S",
+            "moods": [
+                "Devotion",
+                "Grandeur",
+                "Pathos"
+            ],
+            "time_of_day": "Any",
+            "swara_count_category": "Sampurna-Sampurna",
+            "pattern_category": [],
+            "melakarta_chakra": "Disi"
+        },
+        {
+            "raaga_id": "abheri",
+            "name": "Abheri",
+            "type": "Janya",
+            "parent_melakarta": "22",
+            "arohanam": "S G\u208₂ M\u208₁ P N\u208₂ \u1e60",
+            "avarohanam": "\u1e60 N\u208₂ D\u208₂ P M\u208₁ G\u208₂ R\u208₂ S",
+            "moods": [
+                "Pathos",
+                "Love"
+            ],
+            "time_of_day": "Any",
+            "swara_count_category": "Audava-Sampurna",
+            "pattern_category": [
+                "Varja",
+                "Bhashanga"
+            ]
+        },
+        {
+            "raaga_id": "abhogi",
+            "name": "Abhogi",
+            "type": "Janya",
+            "parent_melakarta": "22",
+            "arohanam": "S R\u208₂ G\u208₂ M\u208₁ D\u208₂ \u1e60",
+            "avarohanam": "\u1e60 D\u208₂ M\u208₁ G\u208₂ R\u208₂ S",
+            "moods": [
+                "Devotion"
+            ],
+            "time_of_day": "Any",
+            "swara_count_category": "Audava-Audava",
+            "pattern_category": [
+                "Varja"
+            ]
+        },
+        {
+            "raaga_id": "amritavarshini",
+            "name": "Amritavarshini",
+            "type": "Janya",
+            "parent_melakarta": "66",
+            "arohanam": "S G\u208₃ M\u208₂ P N\u208₃ \u1e60",
+            "avarohanam": "\u1e60 N\u208₃ P M\u208₂ G\u208₃ S",
+            "moods": [
+                "Joyful",
+                "Peace"
+            ],
+            "time_of_day": "Any",
+            "swara_count_category": "Audava-Audava",
+            "pattern_category": [
+                "Varja"
+            ]
+        },
+        {
+            "raaga_id": "anandabhairavi",
+            "name": "Anandabhairavi",
+            "type": "Janya",
+            "parent_melakarta": "22",
+            "arohanam": "S G\u208₂ R\u208₂ G\u208₂ M\u208₁ P D\u208₂ P \u1e60",
+            "avarohanam": "\u1e60 N\u208₂ D\u208₂ P M\u208₁ G\u208₂ R\u208₂ S",
+            "moods": [
+                "Pathos",
+                "Joyful"
+            ],
+            "time_of_day": "Any",
+            "swara_count_category": "Sampurna-Sampurna",
+            "pattern_category": [
+                "Vakra"
+            ]
+        },
+        {
+            "raaga_id": "andolika",
+            "name": "Andolika",
+            "type": "Janya",
+            "parent_melakarta": "22",
+            "arohanam": "S R\u208₂ M\u208₁ P N\u208₂ \u1e60",
+            "avarohanam": "\u1e60 N\u208₂ D\u208₂ M\u208₁ R\u208₂ S",
+            "moods": [],
+            "time_of_day": "Any",
+            "swara_count_category": "Audava-Shadava",
+            "pattern_category": [
+                "Varja"
+            ]
+        },
+        {
+            "raaga_id": "atana",
+            "name": "Atana",
+            "type": "Janya",
+            "parent_melakarta": "29",
+            "arohanam": "S R\u208₂ M\u208₁ P N\u208₃ \u1e60",
+            "avarohanam": "\u1e60 N\u208₃ D\u208₂ P M\u208₁ G\u208₃ R\u208₂ S",
+            "moods": [
+                "Veera",
+                "Energy"
+            ],
+            "time_of_day": "Any",
+            "swara_count_category": "Audava-Sampurna",
+            "pattern_category": [
+                "Varja"
+            ]
+        },
+        {
+            "raaga_id": "bagade",
+            "name": "Bagade",
+            "type": "Janya",
+            "parent_melakarta": "29",
+            "arohanam": "S R\u208₂ M\u208₁ P D\u208₂ \u1e60",
+            "avarohanam": "\u1e60 N\u208₃ D\u208₂ P M\u208₁ R\u208₂ S",
+            "moods": [],
+            "time_of_day": "Any",
+            "swara_count_category": "Audava-Shadava",
+            "pattern_category": [
+                "Varja"
+            ]
+        },
+        {
+            "raaga_id": "bageshri",
+            "name": "Bageshri",
+            "type": "Janya",
+            "parent_melakarta": "22",
+            "arohanam": "S G\u208₂ M\u208₁ D\u208₂ N\u208₂ \u1e60",
+            "avarohanam": "\u1e60 N\u208₂ D\u208₂ M\u208₁ G\u208₂ R\u208₂ S",
+            "moods": [
+                "Love"
+            ],
+            "time_of_day": "Night",
+            "swara_count_category": "Audava-Sampurna",
+            "pattern_category": [
+                "Varja"
+            ]
+        },
+        {
+            "raaga_id": "bahudari",
+            "name": "Bahudari",
+            "type": "Janya",
+            "parent_melakarta": "28",
+            "arohanam": "S G\u208₃ M\u208₁ P D\u208₂ N\u208₂ \u1e60",
+            "avarohanam": "\u1e60 N\u208₂ P M\u208₁ G\u208₃ S",
+            "moods": [],
+            "time_of_day": "Any",
+            "swara_count_category": "Shadava-Audava",
+            "pattern_category": [
+                "Varja"
+            ]
+        },
+        {
+            "raaga_id": "behag",
+            "name": "Behag",
+            "type": "Janya",
+            "parent_melakarta": "29",
+            "arohanam": "S G\u208₃ M\u208₁ P N\u208₃ D\u208₂ N\u208₃ \u1e60",
+            "avarohanam": "\u1e60 N\u208₃ D\u208₂ P M\u208₁ G\u208₃ R\u208₂ S",
+            "moods": [
+                "Romantic",
+                "Pleasant"
+            ],
+            "time_of_day": "Night",
+            "swara_count_category": "Shadava-Sampurna",
+            "pattern_category": [
+                "Vakra",
+                "Varja"
+            ]
+        },
+        {
+            "raaga_id": "bhairavi",
+            "name": "Bhairavi",
+            "type": "Janya",
+            "parent_melakarta": "20",
+            "arohanam": "S G\u208₂ R\u208₂ G\u208₂ M\u208₁ P D\u208₂ N\u208₂ \u1e60",
+            "avarohanam": "\u1e60 N\u208₂ D\u208₁ P M\u208₁ G\u208₂ R\u208₂ S",
+            "moods": [
+                "Devotion"
+            ],
+            "time_of_day": "Any",
+            "swara_count_category": "Sampurna-Sampurna",
+            "pattern_category": [
+                "Vakra",
+                "Bhashanga"
+            ]
+        },
+        {
+            "raaga_id": "bhupalam",
+            "name": "Bhupalam",
+            "type": "Janya",
+            "parent_melakarta": "8",
+            "arohanam": "S R\u208₁ G\u208₂ P D\u208₁ \u1e60",
+            "avarohanam": "\u1e60 D\u208₁ P G\u208₂ R\u208₁ S",
+            "moods": [
+                "Peace"
+            ],
+            "time_of_day": "Morning",
+            "swara_count_category": "Audava-Audava",
+            "pattern_category": [
+                "Varja"
+            ]
+        },
+        {
+            "raaga_id": "bilahari",
+            "name": "Bilahari",
+            "type": "Janya",
+            "parent_melakarta": "29",
+            "arohanam": "S R\u208₂ G\u208₃ P D\u208₂ \u1e60",
+            "avarohanam": "\u1e60 N\u208₃ D\u208₂ P M\u208₁ G\u208₃ R\u208₂ S",
+            "moods": [
+                "Joyful",
+                "Devotion"
+            ],
+            "time_of_day": "Morning",
+            "swara_count_category": "Audava-Sampurna",
+            "pattern_category": [
+                "Varja"
+            ]
+        },
+        {
+            "raaga_id": "bindumalini",
+            "name": "Bindumalini",
+            "type": "Janya",
+            "parent_melakarta": "16",
+            "arohanam": "S G\u208₃ R\u208₁ M\u208₁ P N\u208₂ \u1e60",
+            "avarohanam": "\u1e60 N\u208₂ P M\u208₁ G\u208₃ R\u208₁ S",
+            "moods": [],
+            "time_of_day": "Any",
+            "swara_count_category": "Shadava-Shadava",
+            "pattern_category": [
+                "Varja",
+                "Vakra"
+            ]
+        },
+        {
+            "raaga_id": "brindavanasaranga",
+            "name": "Brindavanasaranga",
+            "type": "Janya",
+            "parent_melakarta": "22",
+            "arohanam": "S R\u208₂ M\u208₁ P N\u208₃ \u1e60",
+            "avarohanam": "\u1e60 N\u208₂ P M\u208₁ R\u208₂ G\u208₂ S",
+            "moods": [
+                "Joyful"
+            ],
+            "time_of_day": "Any",
+            "swara_count_category": "Audava-Shadava",
+            "pattern_category": [
+                "Varja",
+                "Bhashanga"
+            ]
+        },
+        {
+            "raaga_id": "chandrajyoti",
+            "name": "Chandrajyoti",
+            "type": "Janya",
+            "parent_melakarta": "40",
+            "arohanam": "S R\u208₁ G\u208₁ M\u208₂ P D\u208₂ \u1e60",
+            "avarohanam": "\u1e60 D\u208₂ P M\u208₂ G\u208₁ R\u208₁ S",
+            "moods": [],
+            "time_of_day": "Any",
+            "swara_count_category": "Shadava-Shadava",
+            "pattern_category": [
+                "Varja"
+            ]
+        },
+        {
+            "raaga_id": "charukesi",
+            "name": "Charukesi",
+            "type": "Janya",
+            "parent_melakarta": "26",
+            "arohanam": "S R\u208₂ G\u208₃ M\u208₁ P D\u208₁ N\u208₂ \u1e60",
+            "avarohanam": "\u1e60 N\u208₂ D\u208₁ P M\u208₁ G\u208₃ R\u208₂ S",
+            "moods": [
+                "Devotion",
+                "Pathos"
+            ],
+            "time_of_day": "Any",
+            "swara_count_category": "Sampurna-Sampurna",
+            "pattern_category": []
+        },
+        {
+            "raaga_id": "chenchukamboji",
+            "name": "Chenchukamboji",
+            "type": "Janya",
+            "parent_melakarta": "28",
+            "arohanam": "S R\u208₂ G\u208₃ M\u208₁ P D\u208₂ \u1e60",
+            "avarohanam": "\u1e60 N\u208₂ D\u208₂ P M\u208₁ S",
+            "moods": [],
+            "time_of_day": "Any",
+            "swara_count_category": "Shadava-Audava",
+            "pattern_category": [
+                "Varja"
+            ]
+        },
+        {
+            "raaga_id": "chittaranjani",
+            "name": "Chittaranjani",
+            "type": "Janya",
+            "parent_melakarta": "22",
+            "arohanam": "S R\u208₂ G\u208₂ M\u208₁ P D\u208₂ N\u208₂",
+            "avarohanam": "N\u208₂ D\u208₂ P M\u208₁ G\u208₂ R\u208₂ S",
+            "moods": [
+                "Joyful"
+            ],
+            "time_of_day": "Any",
+            "swara_count_category": "Shadava-Shadava",
+            "pattern_category": [
+                "Varja"
+            ]
+        },
+        {
+            "raaga_id": "darbar",
+            "name": "Darbar",
+            "type": "Janya",
+            "parent_melakarta": "22",
+            "arohanam": "S R\u208₂ M\u208₁ P D\u208₂ N\u208₂ \u1e60",
+            "avarohanam": "\u1e60 D\u208₂ N\u208₂ P M\u208₁ R\u208₂ G\u208₂ G\u208₂ R\u208₂ S",
+            "moods": [
+                "Majestic",
+                "Devotion"
+            ],
+            "time_of_day": "Any",
+            "swara_count_category": "Shadava-Sampurna",
+            "pattern_category": [
+                "Varja",
+                "Vakra"
+            ]
+        },
+        {
+            "raaga_id": "darbaritiruvottiyur",
+            "name": "Darbaritiruvottiyur",
+            "type": "Janya",
+            "parent_melakarta": "22",
+            "arohanam": "S R\u208₂ G\u208₂ M\u208₁ P D\u208₂ N\u208₂ \u1e60",
+            "avarohanam": "\u1e60 D\u208₂ N\u208₂ P M\u208₁ G\u208₂ R\u208₂ S",
+            "moods": [],
+            "time_of_day": "Any",
+            "swara_count_category": "Sampurna-Sampurna",
+            "pattern_category": []
+        },
+        {
+            "raaga_id": "devagandhari",
+            "name": "Devagandhari",
+            "type": "Janya",
+            "parent_melakarta": "29",
+            "arohanam": "S R\u208₂ M\u208₁ P D\u208₂ \u1e60",
+            "avarohanam": "\u1e60 N\u208₃ D\u208₂ P M\u208₁ G\u208₃ R\u208₂ S",
+            "moods": [
+                "Devotion",
+                "Pathos"
+            ],
+            "time_of_day": "Any",
+            "swara_count_category": "Audava-Sampurna",
+            "pattern_category": [
+                "Varja"
+            ]
+        },
+        {
+            "raaga_id": "devamanohari",
+            "name": "Devamanohari",
+            "type": "Janya",
+            "parent_melakarta": "22",
+            "arohanam": "S R\u208₂ M\u208₁ P D\u208₂ N\u208₂ \u1e60",
+            "avarohanam": "\u1e60 N\u208₂ D\u208₂ P M\u208₁ R\u208₂ S",
+            "moods": [],
+            "time_of_day": "Any",
+            "swara_count_category": "Shadava-Shadava",
+            "pattern_category": [
+                "Varja"
+            ]
+        },
+        {
+            "raaga_id": "dhanyasi",
+            "name": "Dhanyasi",
+            "type": "Janya",
+            "parent_melakarta": "8",
+            "arohanam": "S G\u208₂ M\u208₁ P N\u208₂ \u1e60",
+            "avarohanam": "\u1e60 N\u208₂ D\u208₁ P M\u208₁ G\u208₂ R\u208₁ S",
+            "moods": [
+                "Devotion"
+            ],
+            "time_of_day": "Any",
+            "swara_count_category": "Audava-Sampurna",
+            "pattern_category": [
+                "Varja"
+            ]
+        },
+        {
+            "raaga_id": "dilipaka",
+            "name": "Dilipaka",
+            "type": "Janya",
+            "parent_melakarta": "22",
+            "arohanam": "S R\u208₂ M\u208₁ P N\u208₂ \u1e60",
+            "avarohanam": "\u1e60 N\u208₂ D\u208₂ P M\u208₁ R\u208₂ S",
+            "moods": [],
+            "time_of_day": "Any",
+            "swara_count_category": "Audava-Shadava",
+            "pattern_category": [
+                "Varja"
+            ]
+        },
+        {
+            "raaga_id": "hamsadhwani",
+            "name": "Hamsadhwani",
+            "type": "Janya",
+            "parent_melakarta": "29",
+            "arohanam": "S R\u208₂ G\u208₃ P N\u208₃ \u1e60",
+            "avarohanam": "\u1e60 N\u208₃ P G\u208₃ R\u208₂ S",
+            "moods": [
+                "Joyful",
+                "Celebratory"
+            ],
+            "time_of_day": "Any",
+            "swara_count_category": "Audava-Audava",
+            "pattern_category": [
+                "Varja"
+            ]
+        },
+        {
+            "raaga_id": "hamsanadam",
+            "name": "Hamsanadam",
+            "type": "Janya",
+            "parent_melakarta": "60",
+            "arohanam": "S R\u208₂ M\u208₂ P N\u208₃ \u1e60",
+            "avarohanam": "\u1e60 N\u208₃ P M\u208₂ R\u208₂ S",
+            "moods": [],
+            "time_of_day": "Any",
+            "swara_count_category": "Audava-Audava",
+            "pattern_category": [
+                "Varja"
+            ]
+        },
+        {
+            "raaga_id": "hamsanandi",
+            "name": "Hamsanandi",
+            "type": "Janya",
+            "parent_melakarta": "53",
+            "arohanam": "S R\u208₁ G\u208₃ M\u208₂ D\u208₂ N\u208₃ \u1e60",
+            "avarohanam": "\u1e60 N\u208₃ D\u208₂ M\u208₂ G\u208₃ R\u208₁ S",
+            "moods": [
+                "Peace"
+            ],
+            "time_of_day": "Evening",
+            "swara_count_category": "Shadava-Shadava",
+            "pattern_category": [
+                "Varja"
+            ]
+        },
+        {
+            "raaga_id": "haridasapriya",
+            "name": "Haridasapriya",
+            "type": "Janya",
+            "parent_melakarta": "28",
+            "arohanam": "S G\u208₃ M\u208₁ D\u208₂ N\u208₂ \u1e60",
+            "avarohanam": "\u1e60 N\u208₂ D\u208₂ M\u208₁ G\u208₃ S",
+            "moods": [],
+            "time_of_day": "Any",
+            "swara_count_category": "Audava-Audava",
+            "pattern_category": [
+                "Varja"
+            ]
+        },
+        {
+            "raaga_id": "hemangi",
+            "name": "Hemangi",
+            "type": "Janya",
+            "parent_melakarta": "58",
+            "arohanam": "S R\u208₂ G\u208₂ M\u208₂ P D\u208₂ \u1e60",
+            "avarohanam": "\u1e60 N\u208₂ D\u208₂ P M\u208₂ G\u208₂ S",
+            "moods": [],
+            "time_of_day": "Any",
+            "swara_count_category": "Shadava-Shadava",
+            "pattern_category": [
+                "Varja"
+            ]
+        },
+        {
+            "raaga_id": "hindolam",
+            "name": "Hindolam",
+            "type": "Janya",
+            "parent_melakarta": "20",
+            "arohanam": "S G\u208₂ M\u208₁ D\u208₁ N\u208₂ \u1e60",
+            "avarohanam": "\u1e60 N\u208₂ D\u208₁ M\u208₁ G\u208₂ S",
+            "moods": [
+                "Pleasant",
+                "Soothing"
+            ],
+            "time_of_day": "Night",
+            "swara_count_category": "Audava-Audava",
+            "pattern_category": [
+                "Varja"
+            ]
+        },
+        {
+            "raaga_id": "huseni",
+            "name": "Huseni",
+            "type": "Janya",
+            "parent_melakarta": "22",
+            "arohanam": "S G\u208₂ M\u208₁ P N\u208₂ D\u208₂ N\u208₂ \u1e60",
+            "avarohanam": "\u1e60 N\u208₂ D\u208₂ P M\u208₁ G\u208₂ R\u208₂ S",
+            "moods": [],
+            "time_of_day": "Any",
+            "swara_count_category": "Shadava-Sampurna",
+            "pattern_category": [
+                "Varja",
+                "Vakra"
+            ]
+        },
+        {
+            "raaga_id": "jalakesari",
+            "name": "Jalakesari",
+            "type": "Janya",
+            "parent_melakarta": "28",
+            "arohanam": "S R\u208₂ G\u208₃ M\u208₁ P D\u208₂ \u1e60",
+            "avarohanam": "\u1e60 N\u208₂ D\u208₂ M\u208₁ G\u208₃ S",
+            "moods": [],
+            "time_of_day": "Any",
+            "swara_count_category": "Shadava-Audava",
+            "pattern_category": [
+                "Varja"
+            ]
+        },
+        {
+            "raaga_id": "jana_ranjani",
+            "name": "Jana Ranjani",
+            "type": "Janya",
+            "parent_melakarta": "29",
+            "arohanam": "S R\u208₂ G\u208₃ M\u208₁ P D\u208₂ P \u1e60",
+            "avarohanam": "\u1e60 D\u208₂ P M\u208₁ G\u208₃ R\u208₂ S",
+            "moods": [],
+            "time_of_day": "Any",
+            "swara_count_category": "Shadava-Shadava",
+            "pattern_category": [
+                "Varja",
+                "Vakra"
+            ]
+        },
+        {
+            "raaga_id": "jayamanohari",
+            "name": "Jayamanohari",
+            "type": "Janya",
+            "parent_melakarta": "22",
+            "arohanam": "S R\u208₂ G\u208₂ M\u208₁ P D\u208₂ \u1e60",
+            "avarohanam": "\u1e60 N\u208₂ D\u208₂ P M\u208₁ R\u208₂ S",
+            "moods": [],
+            "time_of_day": "Any",
+            "swara_count_category": "Shadava-Shadava",
+            "pattern_category": [
+                "Varja"
+            ]
+        },
+        {
+            "raaga_id": "jayantasri",
+            "name": "Jayantasri",
+            "type": "Janya",
+            "parent_melakarta": "20",
+            "arohanam": "S G\u208₂ M\u208₁ P N\u208₂ \u1e60",
+            "avarohanam": "\u1e60 N\u208₂ D\u208₁ P M\u208₁ G\u208₂ S",
+            "moods": [],
+            "time_of_day": "Any",
+            "swara_count_category": "Audava-Shadava",
+            "pattern_category": [
+                "Varja"
+            ]
+        },
+        {
+            "raaga_id": "jingla",
+            "name": "Jingla",
+            "type": "Janya",
+            "parent_melakarta": "20",
+            "arohanam": "S R\u208₂ M\u208₁ G\u208₂ M\u208₁ P D\u208₁ N\u208₂ \u1e60",
+            "avarohanam": "\u1e60 N\u208₂ D\u208₁ P M\u208₁ G\u208₂ R\u208₂ S",
+            "moods": [],
+            "time_of_day": "Any",
+            "swara_count_category": "Vakra",
+            "pattern_category": [
+                "Vakra"
+            ]
+        },
+        {
+            "raaga_id": "kadanakuthuhalam",
+            "name": "Kadanakuthuhalam",
+            "type": "Janya",
+            "parent_melakarta": "29",
+            "arohanam": "S R\u208₂ M\u208₁ D\u208₂ N\u208₃ G\u208₃ P \u1e60",
+            "avarohanam": "\u1e60 N\u208₃ D\u208₂ P M\u208₁ G\u208₃ R\u208₂ S",
+            "moods": [
+                "Joyful",
+                "Celebratory"
+            ],
+            "time_of_day": "Any",
+            "swara_count_category": "Sampurna-Sampurna",
+            "pattern_category": [
+                "Vakra"
+            ]
+        },
+        {
+            "raaga_id": "kalahamsa",
+            "name": "Kalahamsa",
+            "type": "Janya",
+            "parent_melakarta": "28",
+            "arohanam": "S R\u208₂ M\u208₁ P N\u208₂ \u1e60",
+            "avarohanam": "\u1e60 N\u208₂ P M\u208₁ G\u208₃ R\u208₂ S",
+            "moods": [],
+            "time_of_day": "Any",
+            "swara_count_category": "Audava-Shadava",
+            "pattern_category": [
+                "Varja"
+            ]
+        },
+        {
+            "raaga_id": "kalavati",
+            "name": "Kalavati",
+            "type": "Janya",
+            "parent_melakarta": "16",
+            "arohanam": "S R\u208₁ G\u208₃ P D\u208₂ S",
+            "avarohanam": "S D\u208₂ P G\u208₃ R\u208₁ S",
+            "moods": [],
+            "time_of_day": "Any",
+            "swara_count_category": "Audava-Audava",
+            "pattern_category": [
+                "Varja"
+            ]
+        },
+        {
+            "raaga_id": "kalyanavasantam",
+            "name": "Kalyanavasantam",
+            "type": "Janya",
+            "parent_melakarta": "21",
+            "arohanam": "S G\u208₂ M\u208₁ D\u208₁ N\u208₃ \u1e60",
+            "avarohanam": "\u1e60 N\u208₃ D\u208₁ M\u208₁ G\u208₂ S",
+            "moods": [],
+            "time_of_day": "Any",
+            "swara_count_category": "Audava-Audava",
+            "pattern_category": [
+                "Varja"
+            ]
+        },
+        {
+            "raaga_id": "kambhoji",
+            "name": "Kambhoji",
+            "type": "Janya",
+            "parent_melakarta": "28",
+            "arohanam": "S R\u208₂ G\u208₃ M\u208₁ P D\u208₂ \u1e60",
+            "avarohanam": "\u1e60 N\u208₂ D\u208₂ P M\u208₁ G\u208₃ R\u208₂ S",
+            "moods": [
+                "Majestic",
+                "Shringara"
+            ],
+            "time_of_day": "Any",
+            "swara_count_category": "Shadava-Sampurna",
+            "pattern_category": [
+                "Varja"
+            ]
+        },
+        {
+            "raaga_id": "kanada",
+            "name": "Kanada",
+            "type": "Janya",
+            "parent_melakarta": "22",
+            "arohanam": "S R\u208₂ G\u208₂ M\u208₁ D\u208₂ N\u208₂ \u1e60",
+            "avarohanam": "\u1e60 N\u208₂ D\u208₂ P M\u208₁ G\u208₂ M\u208₁ R\u208₂ S",
+            "moods": [],
+            "time_of_day": "Any",
+            "swara_count_category": "Shadava-Sampurna",
+            "pattern_category": [
+                "Varja",
+                "Vakra"
+            ]
+        },
+        {
+            "raaga_id": "kannada",
+            "name": "Kannada",
+            "type": "Janya",
+            "parent_melakarta": "29",
+            "arohanam": "S R\u208₂ G\u208₃ M\u208₁ P D\u208₂ N\u208₃ \u1e60",
+            "avarohanam": "\u1e60 N\u208₃ D\u208₂ P M\u208₁ G\u208₃ R\u208₂ S",
+            "moods": [],
+            "time_of_day": "Any",
+            "swara_count_category": "Sampurna-Sampurna",
+            "pattern_category": []
+        },
+        {
+            "raaga_id": "kapi",
+            "name": "Kapi",
+            "type": "Janya",
+            "parent_melakarta": "22",
+            "arohanam": "S R\u208₂ M\u208₁ P N\u208₃ \u1e60",
+            "avarohanam": "\u1e60 N\u208₂ D\u208₂ P M\u208₁ G\u208₂ R\u208₂ S",
+            "moods": [],
+            "time_of_day": "Any",
+            "swara_count_category": "Audava-Sampurna",
+            "pattern_category": [
+                "Varja",
+                "Bhashanga"
+            ]
+        },
+        {
+            "raaga_id": "kapinarayani",
+            "name": "Kapinarayani",
+            "type": "Janya",
+            "parent_melakarta": "28",
+            "arohanam": "S R\u208₂ M\u208₁ P N\u208₂ \u1e60",
+            "avarohanam": "\u1e60 N\u208₂ D\u208₂ P M\u208₁ G\u208₃ R\u208₂ S",
+            "moods": [],
+            "time_of_day": "Any",
+            "swara_count_category": "Audava-Sampurna",
+            "pattern_category": [
+                "Varja"
+            ]
+        },
+        {
+            "raaga_id": "karnaranjani",
+            "name": "Karnaranjani",
+            "type": "Janya",
+            "parent_melakarta": "22",
+            "arohanam": "S R\u208₂ G\u208₂ M\u208₁ P D\u208₂ \u1e60",
+            "avarohanam": "\u1e60 N\u208₂ D\u208₂ P M\u208₁ G\u208₂ S",
+            "moods": [],
+            "time_of_day": "Any",
+            "swara_count_category": "Shadava-Shadava",
+            "pattern_category": [
+                "Varja"
+            ]
+        },
+        {
+            "raaga_id": "kedaram",
+            "name": "Kedaram",
+            "type": "Janya",
+            "parent_melakarta": "29",
+            "arohanam": "S M\u208₁ G\u208₃ M\u208₁ P N\u208₃ \u1e60",
+            "avarohanam": "\u1e60 N\u208₃ P M\u208₁ G\u208₃ R\u208₂ S",
+            "moods": [
+                "Majestic",
+                "Devotion"
+            ],
+            "time_of_day": "Any",
+            "swara_count_category": "Audava-Shadava",
+            "pattern_category": [
+                "Varja",
+                "Vakra"
+            ]
+        },
+        {
+            "raaga_id": "kedaragowla",
+            "name": "Kedaragowla",
+            "type": "Janya",
+            "parent_melakarta": "28",
+            "arohanam": "S R\u208₂ M\u208₁ P N\u208₂ \u1e60",
+            "avarohanam": "\u1e60 N\u208₂ D\u208₂ P M\u208₁ G\u208₃ R\u208₂ S",
+            "moods": [],
+            "time_of_day": "Any",
+            "swara_count_category": "Audava-Sampurna",
+            "pattern_category": [
+                "Varja"
+            ]
+        },
+        {
+            "raaga_id": "khamas",
+            "name": "Khamas",
+            "type": "Janya",
+            "parent_melakarta": "28",
+            "arohanam": "S M\u208₁ G\u208₃ M\u208₁ P D\u208₂ N\u208₂ \u1e60",
+            "avarohanam": "\u1e60 N\u208₂ D\u208₂ P M\u208₁ G\u208₃ R\u208₂ S",
+            "moods": [
+                "Shringara",
+                "Romantic"
+            ],
+            "time_of_day": "Night",
+            "swara_count_category": "Shadava-Sampurna",
+            "pattern_category": [
+                "Vakra",
+                "Varja"
+            ]
+        },
+        {
+            "raaga_id": "kuntalavarali",
+            "name": "Kuntalavarali",
+            "type": "Janya",
+            "parent_melakarta": "28",
+            "arohanam": "S M\u208₁ P D\u208₂ N\u208₂ D\u208₂ \u1e60",
+            "avarohanam": "\u1e60 N\u208₂ D\u208₂ P M\u208₁ S",
+            "moods": [],
+            "time_of_day": "Any",
+            "swara_count_category": "Audava-Audava",
+            "pattern_category": [
+                "Varja"
+            ]
+        },
+        {
+            "raaga_id": "kurinji",
+            "name": "Kurinji",
+            "type": "Janya",
+            "parent_melakarta": "29",
+            "arohanam": "S N\u208₃ S R\u208₂ G\u208₃ M\u208₁ P D\u208₂",
+            "avarohanam": "D\u208₂ P M\u208₁ G\u208₃ R\u208₂ S N\u208₃ S",
+            "moods": [],
+            "time_of_day": "Any",
+            "swara_count_category": "Sampurna-Sampurna",
+            "pattern_category": []
+        },
+        {
+            "raaga_id": "mohanam",
+            "name": "Mohanam",
+            "type": "Janya",
+            "parent_melakarta": "29",
+            "arohanam": "S R\u2082 G\u2083 P D\u2082 \u1e60",
+            "avarohanam": "\u1e60 D\u2082 P G\u2083 R\u2082 S",
+            "moods": [
+                "Joyful",
+                "Majestic",
+                "Devotion"
+            ],
+            "time_of_day": "Evening",
+            "swara_count_category": "Audava-Audava",
+            "pattern_category": [
+                "Varja"
+            ]
+        },
+        {
+            "raaga_id": "begada",
+            "name": "Begada",
+            "type": "Janya",
+            "parent_melakarta": "29",
+            "arohanam": "S G\u2083 R\u2082 G\u2083 M\u2081 P D\u2082 P \u1e60",
+            "avarohanam": "\u1e60 N\u2083 D\u2082 P M\u2081 G\u2083 R\u2082 S",
+            "moods": [
+                "Majestic",
+                "Grandeur"
+            ],
+            "time_of_day": "Any",
+            "swara_count_category": "Vakra-Sampurna",
+            "pattern_category": [
+                "Vakra"
+            ]
+        },
+        {
+            "raaga_id": "nilambari",
+            "name": "Nilambari",
+            "type": "Janya",
+            "parent_melakarta": "29",
+            "arohanam": "S R\u2082 G\u2083 M\u2081 P D\u2082 P N\u2083 \u1e60",
+            "avarohanam": "\u1e60 N\u2083 P M\u2081 G\u2083 R\u2082 G\u2083 S",
+            "moods": [
+                "Soothing",
+                "Sleep",
+                "Lullaby",
+                "Shringara"
+            ],
+            "time_of_day": "Night",
+            "swara_count_category": "Vakra-Vakra",
+            "pattern_category": [
+                "Vakra"
+            ]
+        },
+        {
+            "raaga_id": "surutti",
+            "name": "Surutti",
+            "type": "Janya",
+            "parent_melakarta": "28",
+            "arohanam": "S R\u2082 M\u2081 P N\u2082 \u1e60",
+            "avarohanam": "\u1e60 N\u2082 D\u2082 P M\u2081 G\u2083 P M\u2081 R\u2082 S",
+            "moods": [
+                "Auspicious",
+                "Joyful"
+            ],
+            "time_of_day": "Any",
+            "swara_count_category": "Audava-Sampurna",
+            "pattern_category": [
+                "Varja",
+                "Vakra"
+            ]
+        },
+        {
+            "raaga_id": "madhyamavati",
+            "name": "Madhyamavati",
+            "type": "Janya",
+            "parent_melakarta": "22",
+            "arohanam": "S R\u2082 M\u2081 P N\u2082 \u1e60",
+            "avarohanam": "\u1e60 N\u2082 P M\u2081 R\u2082 S",
+            "moods": [
+                "Auspicious",
+                "Peace",
+                "Bhakti"
+            ],
+            "time_of_day": "Evening",
+            "swara_count_category": "Audava-Audava",
+            "pattern_category": [
+                "Varja"
+            ]
+        },
+        {
+            "raaga_id": "ritigowla",
+            "name": "Ritigowla",
+            "type": "Janya",
+            "parent_melakarta": "22",
+            "arohanam": "S G\u2082 R\u2082 G\u208₂ M\u208₁ N\u208₂ N\u208₂ \u1e60",
+            "avarohanam": "\u1e60 N\u208₂ D\u208₂ M\u208₁ G\u208₂ M\u208₁ P M\u208₁ G\u208₂ R\u208₂ S",
+            "moods": [
+                "Bhakti",
+                "Karuna",
+                "Shringara"
+            ],
+            "time_of_day": "Any",
+            "swara_count_category": "Shadava-Sampurna",
+            "pattern_category": [
+                "Vakra"
+            ]
+        },
+        {
+            "raaga_id": "sahana",
+            "name": "Sahana",
+            "type": "Janya",
+            "parent_melakarta": "28",
+            "arohanam": "S R\u2082 G\u208₃ M\u208₁ P M\u208₁ D\u208₂ N\u208₂ \u1e60",
+            "avarohanam": "\u1e60 N\u208₂ D\u208₂ P M\u208₁ G\u208₃ M\u208₁ R\u208₂ G\u208₃ R\u208₂ S",
+            "moods": [
+                "Karuna",
+                "Bhakti"
+            ],
+            "time_of_day": "Any",
+            "swara_count_category": "Sampurna-Sampurna",
+            "pattern_category": [
+                "Vakra"
+            ]
+        },
+        {
+            "raaga_id": "sama",
+            "name": "Sama",
+            "type": "Janya",
+            "parent_melakarta": "29",
+            "arohanam": "S R\u2082 M\u2081 P D\u2082 \u1e60",
+            "avarohanam": "\u1e60 D\u2082 P M\u2081 G\u2083 R\u2082 S",
+            "moods": [
+                "Tranquility",
+                "Peace",
+                "Meditation"
+            ],
+            "time_of_day": "Any",
+            "swara_count_category": "Audava-Shadava",
+            "pattern_category": [
+                "Varja",
+                "Vakra"
+            ]
+        },
+        {
+            "raaga_id": "saveri",
+            "name": "Saveri",
+            "type": "Janya",
+            "parent_melakarta": "15",
+            "arohanam": "S R\u2081 M\u208₁ P D\u208₁ \u1e60",
+            "avarohanam": "\u1e60 N\u208₃ D\u208₁ P M\u208₁ G\u208₃ R\u208₁ S",
+            "moods": [
+                "Karuna",
+                "Bhakti"
+            ],
+            "time_of_day": "Morning",
+            "swara_count_category": "Audava-Sampurna",
+            "pattern_category": [
+                "Varja"
+            ]
+        },
+        {
+            "raaga_id": "malahari",
+            "name": "Malahari",
+            "type": "Janya",
+            "parent_melakarta": "15",
+            "arohanam": "S R\u208₁ M\u208₁ P D\u208₁ \u1e60",
+            "avarohanam": "\u1e60 D\u208₁ P M\u208₁ G\u208₃ R\u208₁ S",
+            "moods": [
+                "Calmness",
+                "Devotion"
+            ],
+            "time_of_day": "Morning",
+            "swara_count_category": "Audava-Shadava",
+            "pattern_category": [
+                "Varja"
+            ]
+        },
+        {
+            "raaga_id": "gowla",
+            "name": "Gowla",
+            "type": "Janya",
+            "parent_melakarta": "15",
+            "arohanam": "S R\u208₁ M\u208₁ P N\u208₃ \u1e60",
+            "avarohanam": "\u1e60 N\u208₃ P M\u208₁ R\u208₁ G\u208₃ M\u208₁ R\u208₁ S",
+            "moods": [
+                "Auspicious",
+                "Majestic"
+            ],
+            "time_of_day": "Early Concert",
+            "swara_count_category": "Audava-Vakra-Shadava",
+            "pattern_category": [
+                "Varja",
+                "Vakra"
+            ]
+        },
+        {
+            "raaga_id": "saranga",
+            "name": "Saranga",
+            "type": "Janya",
+            "parent_melakarta": "65",
+            "arohanam": "S R\u2082 G\u208₃ M\u208₂ P D\u208₂ N\u208₃ \u1e60",
+            "avarohanam": "\u1e60 N\u208₃ D\u208₂ P M\u208₂ R\u208₂ G\u208₃ M\u208₁ R\u208₂ S",
+            "moods": [
+                "Bhakti",
+                "Shringara"
+            ],
+            "time_of_day": "Any",
+            "swara_count_category": "Sampurna-Vakra-Sampurna",
+            "pattern_category": [
+                "Vakra",
+                "Bhashanga"
+            ]
+        },
+        {
+            "raaga_id": "hameer_kalyani",
+            "name": "Hameer Kalyani",
+            "type": "Janya",
+            "parent_melakarta": "65",
+            "arohanam": "S P M\u208₂ P D\u208₂ N\u208₃ \u1e60",
+            "avarohanam": "\u1e60 N\u208₃ D\u208₂ P M\u208₂ M\u208₁ G\u208₃ P M\u208₁ R\u208₂ S",
+            "moods": [
+                "Romantic",
+                "Pleasant"
+            ],
+            "time_of_day": "Evening",
+            "swara_count_category": "Shadava-Sampurna",
+            "pattern_category": [
+                "Vakra",
+                "Bhashanga"
+            ]
+        },
+        {
+            "raaga_id": "yamuna_kalyani",
+            "name": "Yamuna Kalyani",
+            "type": "Janya",
+            "parent_melakarta": "65",
+            "arohanam": "S R\u208₂ G\u208₃ P M\u208₂ P \u1e60",
+            "avarohanam": "\u1e60 D\u208₂ P M\u208₂ G\u208₃ R\u208₂ S",
+            "moods": [
+                "Peaceful",
+                "Soothing",
+                "Romantic"
+            ],
+            "time_of_day": "Evening",
+            "swara_count_category": "Shadava-Shadava",
+            "pattern_category": [
+                "Vakra",
+                "Varja"
+            ]
+        },
+        {
+            "raaga_id": "saraswati",
+            "name": "Saraswati",
+            "type": "Janya",
+            "parent_melakarta": "64",
+            "arohanam": "S R\u208₂ M\u208₂ P D\u208₂ \u1e60",
+            "avarohanam": "\u1e60 N\u208₂ D\u208₂ P M\u208₂ R\u208₂ S",
+            "moods": [
+                "Devotion",
+                "Intellect"
+            ],
+            "time_of_day": "Any",
+            "swara_count_category": "Audava-Shadava",
+            "pattern_category": [
+                "Varja"
+            ]
+        },
+        {
+            "raaga_id": "vasantha",
+            "name": "Vasantha",
+            "type": "Janya",
+            "parent_melakarta": "17",
+            "arohanam": "S G\u208₃ M\u208₁ D\u208₂ N\u208₃ \u1e60",
+            "avarohanam": "\u1e60 N\u208₃ D\u208₂ M\u208₁ G\u208₃ R\u208₁ S",
+            "moods": [
+                "Auspicious",
+                "Joyful"
+            ],
+            "time_of_day": "Evening",
+            "swara_count_category": "Audava-Shadava",
+            "pattern_category": [
+                "Varja",
+                "Vakra"
+            ]
+        },
+        {
+            "raaga_id": "ranjani",
+            "name": "Ranjani",
+            "type": "Janya",
+            "parent_melakarta": "59",
+            "arohanam": "S R\u208₂ G\u208₂ M\u208₂ D\u208₂ \u1e60",
+            "avarohanam": "\u1e60 N\u208₃ D\u208₂ M\u208₂ G\u208₂ S",
+            "moods": [
+                "Pleasing",
+                "Joyful"
+            ],
+            "time_of_day": "Any",
+            "swara_count_category": "Audava-Audava",
+            "pattern_category": [
+                "Varja",
+                "Asymmetric"
+            ]
+        }
+    ],
+    "composers": [
+        {
+            "composer_id": "tyagaraja",
+            "name": "Tyagaraja",
+            "era": "Trinity",
+            "period_start": "1767",
+            "period_end": "1847",
+            "most_known_for": "One of the Trinity of Carnatic music. His kritis are renowned for their simple yet profound devotional expression and lyrical beauty. He created many new raagas.",
+            "theme": "Lord Rama; Bhakti (devotion)"
+        },
+        {
+            "composer_id": "muthuswami_dikshitar",
+            "name": "Muthuswami Dikshitar",
+            "era": "Trinity",
+            "period_start": "1775",
+            "period_end": "1835",
+            "most_known_for": "One of the Trinity, noted for his grand, slow-paced compositions (vilamba kala) with Sanskrit lyrics and for embedding the raga's name (raga mudra) in his songs.",
+            "theme": "Various Hindu deities; Philosophical and devotional"
+        },
+        {
+            "composer_id": "syama_sastri",
+            "name": "Syama Sastri",
+            "era": "Trinity",
+            "period_start": "1762",
+            "period_end": "1827",
+            "most_known_for": "The oldest of the Trinity, celebrated for his compositions with complex rhythmic structures (tala), emotional depth, and lyrical elegance.",
+            "theme": "Goddess Kamakshi; Devotion with an appeal of a child to a mother"
+        },
+        {
+            "composer_id": "purandara_dasa",
+            "name": "Purandara Dasa",
+            "era": "Pre-Trinity",
+            "period_start": "1484",
+            "period_end": "1564",
+            "most_known_for": "Revered as the 'Pitamaha' (grandfather) of Carnatic music. He codified the initial music lessons and composed thousands of simple devotional songs (padas and geetams).",
+            "theme": "Lord Vitthala (Krishna); Bhakti and social reform"
+        },
+        {
+            "composer_id": "swathi_thirunal",
+            "name": "Swathi Thirunal",
+            "era": "Post-Trinity",
+            "period_start": "1813",
+            "period_end": "1846",
+            "most_known_for": "A royal composer and ruler of Travancore who composed in multiple languages and forms. His works are known for their melodic richness and emotional variety.",
+            "theme": "Lord Padmanabha; Devotion (Bhakti) and love (Shringara)"
+        },
+        {
+            "composer_id": "papanasam_sivan",
+            "name": "Papanasam Sivan",
+            "era": "Modern",
+            "period_start": "1890",
+            "period_end": "1973",
+            "most_known_for": "A prominent 20th-century composer, often called the 'Tamil Tyagaraja'. He composed thousands of kritis in Tamil for concerts and early films, known for their piety.",
+            "theme": "Lord Shiva and other deities; Bhakti (devotion)"
+        },
+        {
+            "composer_id": "mysore_vasudevachar",
+            "name": "Mysore Vasudevachar",
+            "era": "Modern",
+            "period_start": "1865",
+            "period_end": "1961",
+            "most_known_for": "A distinguished musician from the Mysore court. His compositions, mainly in Telugu and Sanskrit, are noted for their structural perfection and melodic grace.",
+            "theme": "Lord Rama; Bhakti (devotion)"
+        },
+        {
+            "composer_id": "patnam_subramania_iyer",
+            "name": "Patnam Subramania Iyer",
+            "era": "Post-Trinity",
+            "period_start": "1845",
+            "period_end": "1902",
+            "most_known_for": "An influential composer who created many varnams and kritis, helping to shape the modern concert format. His compositions have flowing melodies and rhythmic vitality.",
+            "theme": "Various deities; Bhakti (devotion)"
+        },
+        {
+            "composer_id": "gopalakrishna_bharati",
+            "name": "Gopalakrishna Bharati",
+            "era": "Post-Trinity",
+            "period_start": "1811",
+            "period_end": "1896",
+            "most_known_for": "Composing the opera 'Nandanar Charitram,' a powerful musical narrative about a devotee's struggle against caste discrimination. His works are rich in social commentary.",
+            "theme": "Lord Shiva, social justice; Bhakti and Karuna (compassion)"
+        },
+        {
+            "composer_id": "oothukadu_venkata_kavi",
+            "name": "Oothukadu Venkata Kavi",
+            "era": "Pre-Trinity",
+            "period_start": "1700",
+            "period_end": "1765",
+            "most_known_for": "A pre-trinity composer celebrated for his compositions on Lord Krishna, especially the Kamakshi Navavarana kritis, and for pioneering many rhythmic and melodic ideas.",
+            "theme": "Lord Krishna, Goddess Kamakshi; Bhakti and intricate rhythms"
+        },
+        {
+            "composer_id": "sadasiva_brahmendra",
+            "name": "Sadasiva Brahmendra",
+            "era": "Pre-Trinity",
+            "period_start": "1680",
+            "period_end": "1756",
+            "most_known_for": "An avadhuta saint and philosopher who composed numerous Carnatic kritis with deep Advaita Vedanta philosophical themes. His compositions are known for their lyrical simplicity and philosophical depth.",
+            "theme": "Advaita Vedanta; Bhakti"
+        },
+        {
+            "composer_id": "appayya_dikshitar",
+            "name": "Appayya Dikshitar",
+            "era": "Pre-Trinity",
+            "period_start": "1520",
+            "period_end": "1593",
+            "most_known_for": "A philosopher and scholar of Advaita Vedanta who is also credited with composing foundational Geetams, including the one in Mohanam.",
+            "theme": "Philosophy, Devotion"
+        },
+        {
+            "composer_id": "narayana_teertha",
+            "name": "Narayana Teertha",
+            "era": "Pre-Trinity",
+            "period_start": "1650",
+            "period_end": "1745",
+            "most_known_for": "Author of the celebrated opera 'Sri Krishna Leela Tarangini', a collection of kritis on the life of Lord Krishna.",
+            "theme": "Lord Krishna; Bhakti"
+        },
+        {
+            "composer_id": "arunachala_kavi",
+            "name": "Arunachala Kavi",
+            "era": "Pre-Trinity",
+            "period_start": "1711",
+            "period_end": "1779",
+            "most_known_for": "Composing the Tamil opera 'Rama Natakam', narrating the story of the Ramayana through keerthanas.",
+            "theme": "Lord Rama"
+        },
+        {
+            "composer_id": "jayachamarajendra_wodeyar",
+            "name": "Jayachamarajendra Wodeyar",
+            "era": "Modern",
+            "period_start": "1919",
+            "period_end": "1974",
+            "most_known_for": "The last Maharaja of Mysore, he was a great patron of music and a prolific composer of over 90 kritis, often with the mudra 'Sri Vidya'.",
+            "theme": "Various Hindu deities; Bhakti"
+        },
+        {
+            "composer_id": "muthiah_bhagavatar",
+            "name": "Muthiah Bhagavathar",
+            "era": "Modern",
+            "period_start": "1877",
+            "period_end": "1945",
+            "most_known_for": "A versatile composer, musician, and musicologist from the Harikesanallur village. He composed over 400 kritis in various languages and is credited with creating many new ragas.",
+            "theme": "Various Hindu deities; Bhakti"
+        },
+        {
+            "composer_id": "koteeswara_iyer",
+            "name": "Koteeswara Iyer",
+            "era": "Modern",
+            "period_start": "1870",
+            "period_end": "1938",
+            "most_known_for": "A composer who created kritis for all 72 Melakarta ragas, following in the footsteps of Thyagaraja. His compositions use the mudra 'Kavi Kunjara Dasan'.",
+            "theme": "Various Hindu deities; Bhakti"
+        },
+        {
+            "composer_id": "ponnaiyah_pillai",
+            "name": "Ponnaiyah Pillai",
+            "era": "Post-Trinity",
+            "period_start": "1804",
+            "period_end": "1864",
+            "most_known_for": "One of the Tanjore Quartet, who systematized the format of Bharatanatyam and composed many Alaripu, Jatiswarams, and Varnams.",
+            "theme": "Lord Shiva; Bharatanatyam"
+        },
+        {
+            "composer_id": "n_s_ramachandran",
+            "name": "N. S. Ramachandran",
+            "era": "Modern",
+            "period_start": "1908",
+            "period_end": "1997",
+            "most_known_for": "A musicologist and composer from Kerala, known for his kriti 'Sri Mahaganapathe' in Abhogi.",
+            "theme": "Lord Ganesha; Bhakti"
+        },
+        {
+            "composer_id": "pacchimiriam_adiyappa",
+            "name": "Pacchimiriam Adiyappa",
+            "era": "Pre-Trinity",
+            "period_start": "1700",
+            "period_end": "1780",
+            "most_known_for": "A court musician in Tanjore and the guru of Syama Sastri. He is most famous for composing the iconic Bhairavi raga Varnam 'Viriboni'.",
+            "theme": "Devotion"
+        },
+        {
+            "composer_id": "ambujam_krishna",
+            "name": "Ambujam Krishna",
+            "era": "Modern",
+            "period_start": "1917",
+            "period_end": "1989",
+            "most_known_for": "A prolific 20th-century female composer of Carnatic kritis in Tamil, Telugu, Kannada and Sanskrit. Her compositions are known for their poetic beauty and devotion.",
+            "theme": "Lord Krishna; Bhakti"
+        },
+        {
+            "composer_id": "ramasamy_sivan",
+            "name": "Ramasamy Sivan",
+            "era": "Post-Trinity",
+            "period_start": "1839",
+            "period_end": "1897",
+            "most_known_for": "A composer and the elder brother of the renowned Papanasam Sivan. He composed several kritis and is known for his work in Begada raga.",
+            "theme": "Various Hindu deities; Bhakti"
+        },
+        {
+            "composer_id": "periyasaamy_thooran",
+            "name": "Periyasaamy Thooran",
+            "era": "Modern",
+            "period_start": "1908",
+            "period_end": "1987",
+            "most_known_for": "A 20th-century poet and Carnatic music composer from Tamil Nadu, known for his patriotic and devotional songs.",
+            "theme": "Devotion, Nationalism"
+        },
+        {
+            "composer_id": "subbaraya_sastri",
+            "name": "Subbaraya Sastri",
+            "era": "Post-Trinity",
+            "period_start": "1803",
+            "period_end": "1862",
+            "most_known_for": "The son and disciple of Syama Sastri. He was a gifted composer who created a few, but highly regarded, kritis known for their melodic beauty and complexity.",
+            "theme": "Goddess Kamakshi; Bhakti"
+        }
+    ],
+    "compositions": [
+        {
+            "composition_id": "tulasidala_mulache_mayamalavagowla",
+            "title": "Tulasidala Mulache",
+            "composition_type": "Kriti",
+            "raaga_id": "mayamalavagowla",
+            "composer_id": "tyagaraja"
+        },
+        {
+            "composition_id": "meru_samana_mayamalavagowla",
+            "title": "Meru Samana",
+            "composition_type": "Kriti",
+            "raaga_id": "mayamalavagowla",
+            "composer_id": "tyagaraja"
+        },
+        {
+            "composition_id": "nidhi_chala_sukhama_kalyani",
+            "title": "Nidhi Chala Sukhama",
+            "composition_type": "Kriti",
+            "raaga_id": "mechakalyani",
+            "composer_id": "tyagaraja"
+        },
+        {
+            "composition_id": "evarani_devagandhari",
+            "title": "Evarani",
+            "composition_type": "Kriti",
+            "raaga_id": "devagandhari",
+            "composer_id": "tyagaraja"
+        },
+        {
+            "composition_id": "amma_ravamma_kalyani",
+            "title": "Amma Ravamma",
+            "composition_type": "Kriti",
+            "raaga_id": "mechakalyani",
+            "composer_id": "tyagaraja"
+        },
+        {
+            "composition_id": "birana_brova_ide_kalyani",
+            "title": "Birana Brova Ide",
+            "composition_type": "Kriti",
+            "raaga_id": "mechakalyani",
+            "composer_id": "tyagaraja"
+        },
+        {
+            "composition_id": "chakkani_raja_kharaharapriya",
+            "title": "Chakkani Raja",
+            "composition_type": "Kriti",
+            "raaga_id": "kharaharapriya",
+            "composer_id": "tyagaraja"
+        },
+        {
+            "composition_id": "mitri_bhagyame_kharaharapriya",
+            "title": "Mitri Bhagyame",
+            "composition_type": "Kriti",
+            "raaga_id": "kharaharapriya",
+            "composer_id": "tyagaraja"
+        },
+        {
+            "composition_id": "swararaga_sudha_shankarabharanam",
+            "title": "Swararaga Sudha",
+            "composition_type": "Kriti",
+            "raaga_id": "shankarabharanam",
+            "composer_id": "tyagaraja"
+        },
+        {
+            "composition_id": "enduku_peddala_shankarabharanam",
+            "title": "Enduku Peddala",
+            "composition_type": "Kriti",
+            "raaga_id": "shankarabharanam",
+            "composer_id": "tyagaraja"
+        },
+        {
+            "composition_id": "manasu_swadheena_shankarabharanam",
+            "title": "Manasu Swadheena",
+            "composition_type": "Kriti",
+            "raaga_id": "shankarabharanam",
+            "composer_id": "tyagaraja"
+        },
+        {
+            "composition_id": "mohana_rama_mohanam",
+            "title": "Mohana Rama",
+            "composition_type": "Kriti",
+            "raaga_id": "mohanam",
+            "composer_id": "tyagaraja"
+        },
+        {
+            "composition_id": "nanu_palimpa_mohanam",
+            "title": "Nanu Palimpa",
+            "composition_type": "Kriti",
+            "raaga_id": "mohanam",
+            "composer_id": "tyagaraja"
+        },
+        {
+            "composition_id": "evarura_ninuvina_mohanam",
+            "title": "Evarura Ninuvina",
+            "composition_type": "Kriti",
+            "raaga_id": "mohanam",
+            "composer_id": "tyagaraja"
+        },
+        {
+            "composition_id": "brochevarevarura_khamas",
+            "title": "Brochevarevarura",
+            "composition_type": "Kriti",
+            "raaga_id": "khamas",
+            "composer_id": "mysore_vasudevachar"
+        },
+        {
+            "composition_id": "sri_chamundeshwari_bilahari",
+            "title": "Sri Chamundeshwari",
+            "composition_type": "Kriti",
+            "raaga_id": "bilahari",
+            "composer_id": "mysore_vasudevachar"
+        },
+        {
+            "composition_id": "bhajare_re_manasa_karnataka_devagandhari",
+            "title": "Bhajare Re Manasa",
+            "composition_type": "Kriti",
+            "raaga_id": "devagandhari",
+            "composer_id": "mysore_vasudevachar"
+        },
+        {
+            "composition_id": "mamavatu_sri_saraswati_hindolam",
+            "title": "Mamavatu Sri Saraswati",
+            "composition_type": "Kriti",
+            "raaga_id": "hindolam",
+            "composer_id": "mysore_vasudevachar"
+        },
+        {
+            "composition_id": "vanajakshi_kalyani_varnam",
+            "title": "Vanajakshi",
+            "composition_type": "Varnam",
+            "raaga_id": "mechakalyani",
+            "composer_id": "mysore_vasudevachar"
+        },
+        {
+            "composition_id": "raghuvamsha_sudha_shankarabharanam",
+            "title": "Raghuvamsha Sudha",
+            "composition_type": "Kriti",
+            "raaga_id": "shankarabharanam",
+            "composer_id": "patnam_subramania_iyer"
+        },
+        {
+            "composition_id": "marivere_dikkevarayya_shanmukhapriya",
+            "title": "Marivere Dikkevarayya",
+            "composition_type": "Kriti",
+            "raaga_id": "shanmukhapriya",
+            "composer_id": "patnam_subramania_iyer"
+        },
+        {
+            "composition_id": "paridanamichithe_bilahari",
+            "title": "Paridanamichithe",
+            "composition_type": "Kriti",
+            "raaga_id": "bilahari",
+            "composer_id": "patnam_subramania_iyer"
+        },
+        {
+            "composition_id": "evaribodhana_abhogi_varnam",
+            "title": "Evari Bodhana",
+            "composition_type": "Varnam",
+            "raaga_id": "abhogi",
+            "composer_id": "patnam_subramania_iyer"
+        },
+        {
+            "composition_id": "valachi_vacchi_kalyani",
+            "title": "Valachi Vacchi",
+            "composition_type": "Varnam",
+            "raaga_id": "mechakalyani",
+            "composer_id": "patnam_subramania_iyer"
+        },
+        {
+            "composition_id": "sivaloka_nathanai_kandu_nadanamakriya",
+            "title": "Sivaloka Nathanai Kandu",
+            "composition_type": "Keerthana",
+            "raaga_id": "nadanamakriya",
+            "composer_id": "gopalakrishna_bharati"
+        },
+        {
+            "composition_id": "ennaram_pannuven_kambhoji",
+            "title": "Ennaram Pannuven",
+            "composition_type": "Keerthana",
+            "raaga_id": "kambhoji",
+            "composer_id": "gopalakrishna_bharati"
+        },
+        {
+            "composition_id": "varugalamo_ayya_natabhairavi",
+            "title": "Varugalamo Ayya",
+            "composition_type": "Keerthana",
+            "raaga_id": "natabhairavi",
+            "composer_id": "gopalakrishna_bharati"
+        },
+        {
+            "composition_id": "eppo_varuvaro_natabhairavi",
+            "title": "Eppo Varuvaro",
+            "composition_type": "Keerthana",
+            "raaga_id": "natabhairavi",
+            "composer_id": "gopalakrishna_bharati"
+        },
+        {
+            "composition_id": "manasa_sancharare_sama",
+            "title": "Manasa Sancharare",
+            "composition_type": "Kriti",
+            "raaga_id": "sama",
+            "composer_id": "sadasiva_brahmendra"
+        },
+        {
+            "composition_id": "shantamu_lekha_sama",
+            "title": "Shantamu Lekha",
+            "composition_type": "Kriti",
+            "raaga_id": "sama",
+            "composer_id": "tyagaraja"
+        },
+        {
+            "composition_id": "annapoorne_visalakshi_sama",
+            "title": "Annapoorne Visalakshi",
+            "composition_type": "Kriti",
+            "raaga_id": "sama",
+            "composer_id": "muthuswami_dikshitar"
+        },
+        {
+            "composition_id": "varaveena_mridupani_mohanam",
+            "title": "Varaveena Mridupani",
+            "composition_type": "Geetam",
+            "raaga_id": "mohanam",
+            "composer_id": "appayya_dikshitar"
+        },
+        {
+            "composition_id": "kshemam_kuru_mohanam",
+            "title": "Kshemam Kuru",
+            "composition_type": "Kriti",
+            "raaga_id": "mohanam",
+            "composer_id": "narayana_teertha"
+        },
+        {
+            "composition_id": "en_palli_kondeer_aiyya_mohanam",
+            "title": "En Palli Kondeer Aiyya",
+            "composition_type": "Kriti",
+            "raaga_id": "mohanam",
+            "composer_id": "arunachala_kavi"
+        },
+        {
+            "composition_id": "samaja_varagamana_hindolam",
+            "title": "Samaja Varagamana",
+            "composition_type": "Kriti",
+            "raaga_id": "hindolam",
+            "composer_id": "tyagaraja"
+        },
+        {
+            "composition_id": "govardhana_girisham_hindolam",
+            "title": "Govardhana Girisham",
+            "composition_type": "Kriti",
+            "raaga_id": "hindolam",
+            "composer_id": "muthuswami_dikshitar"
+        },
+        {
+            "composition_id": "chintayami_jagadamba_hindolam",
+            "title": "Chintayami Jagadamba",
+            "composition_type": "Kriti",
+            "raaga_id": "hindolam",
+            "composer_id": "jayachamarajendra_wodeyar"
+        },
+        {
+            "composition_id": "padmanabha_pahi_hindolam",
+            "title": "Padmanabha Pahi",
+            "composition_type": "Kriti",
+            "raaga_id": "hindolam",
+            "composer_id": "swathi_thirunal"
+        },
+        {
+            "composition_id": "nannu_brova_nee_abhogi",
+            "title": "Nannu Brova Nee",
+            "composition_type": "Kriti",
+            "raaga_id": "abhogi",
+            "composer_id": "tyagaraja"
+        },
+        {
+            "composition_id": "sabhapatikku_veru_deivam_abhogi",
+            "title": "Sabhapatikku Veru Deivam",
+            "composition_type": "Kriti",
+            "raaga_id": "abhogi",
+            "composer_id": "gopalakrishna_bharati"
+        },
+        {
+            "composition_id": "manasu_nilpa_abhogi",
+            "title": "Manasu Nilpa",
+            "composition_type": "Kriti",
+            "raaga_id": "abhogi",
+            "composer_id": "tyagaraja"
+        },
+        {
+            "composition_id": "anandamrita_karshini_amritavarshini",
+            "title": "Anandamrita Karshini",
+            "composition_type": "Kriti",
+            "raaga_id": "amritavarshini",
+            "composer_id": "muthuswami_dikshitar"
+        },
+        {
+            "composition_id": "sudhamayee_sudhanidhi_amritavarshini",
+            "title": "Sudhamayee Sudhanidhi",
+            "composition_type": "Kriti",
+            "raaga_id": "amritavarshini",
+            "composer_id": "muthiah_bhagavatar"
+        },
+        {
+            "composition_id": "sarasiruhanayane_amritavarshini",
+            "title": "Sarasiruhanayane",
+            "composition_type": "Kriti",
+            "raaga_id": "amritavarshini",
+            "composer_id": "tyagaraja"
+        },
+        {
+            "composition_id": "vatapi_ganapatim_bhajeham_hamsadhwani",
+            "title": "Vatapi Ganapatim Bhajeham",
+            "composition_type": "Kriti",
+            "raaga_id": "hamsadhwani",
+            "composer_id": "muthuswami_dikshitar"
+        },
+        {
+            "composition_id": "raghunayaka_hamsadhwani",
+            "title": "Raghunayaka",
+            "composition_type": "Kriti",
+            "raaga_id": "hamsadhwani",
+            "composer_id": "tyagaraja"
+        },
+        {
+            "composition_id": "gam_ganapathe_hamsadhwani",
+            "title": "Gam Ganapathe",
+            "composition_type": "Kriti",
+            "raaga_id": "hamsadhwani",
+            "composer_id": "muthiah_bhagavatar"
+        },
+        {
+            "composition_id": "pahi_shripate_hamsadhwani",
+            "title": "Pahi Shripate",
+            "composition_type": "Kriti",
+            "raaga_id": "hamsadhwani",
+            "composer_id": "swathi_thirunal"
+        },
+        {
+            "composition_id": "enna_kavi_padinalum_hanumatodi",
+            "title": "Enna Kavi Padinalum",
+            "composition_type": "Kriti",
+            "raaga_id": "hanumatodi",
+            "composer_id": "papanasam_sivan"
+        },
+        {
+            "composition_id": "kandamodainiye_hanumatodi",
+            "title": "Kandamodainiye",
+            "composition_type": "Kriti",
+            "raaga_id": "hanumatodi",
+            "composer_id": "koteeswara_iyer"
+        },
+        {
+            "composition_id": "sri_kanthimathim_hanumatodi",
+            "title": "Sri Kanthimathim",
+            "composition_type": "Kriti",
+            "raaga_id": "hanumatodi",
+            "composer_id": "muthuswami_dikshitar"
+        },
+        {
+            "composition_id": "deva_deva_kalayami_mayamalavagowla",
+            "title": "Deva Deva Kalayami",
+            "composition_type": "Kriti",
+            "raaga_id": "mayamalavagowla",
+            "composer_id": "swathi_thirunal"
+        },
+        {
+            "composition_id": "mayateeta_swaroopini_mayamalavagowla",
+            "title": "Mayateeta Swaroopini",
+            "composition_type": "Kriti",
+            "raaga_id": "mayamalavagowla",
+            "composer_id": "ponnaiyah_pillai"
+        },
+        {
+            "composition_id": "pakkala_nilabadi_kharaharapriya",
+            "title": "Pakkala Nilabadi",
+            "composition_type": "Kriti",
+            "raaga_id": "kharaharapriya",
+            "composer_id": "tyagaraja"
+        },
+        {
+            "composition_id": "senthil_andavan_kharaharapriya",
+            "title": "Senthil Andavan",
+            "composition_type": "Kriti",
+            "raaga_id": "kharaharapriya",
+            "composer_id": "papanasam_sivan"
+        },
+        {
+            "composition_id": "rama_ni_samanamevaru_kharaharapriya",
+            "title": "Rama Ni Samanamevaru",
+            "composition_type": "Kriti",
+            "raaga_id": "kharaharapriya",
+            "composer_id": "tyagaraja"
+        },
+        {
+            "composition_id": "dakshinamurthe_shankarabharanam",
+            "title": "Dakshinamurthe",
+            "composition_type": "Kriti",
+            "raaga_id": "shankarabharanam",
+            "composer_id": "muthuswami_dikshitar"
+        },
+        {
+            "composition_id": "pogadirelo_ranga_shankarabharanam",
+            "title": "Pogadirelo Ranga",
+            "composition_type": "Keerthana",
+            "raaga_id": "shankarabharanam",
+            "composer_id": "purandara_dasa"
+        },
+        {
+            "composition_id": "vasu_devayani_mechakalyani",
+            "title": "Vasu Devayani",
+            "composition_type": "Kriti",
+            "raaga_id": "mechakalyani",
+            "composer_id": "muthuswami_dikshitar"
+        },
+        {
+            "composition_id": "kamalambam_bhajare_mechakalyani",
+            "title": "Kamalambam Bhajare",
+            "composition_type": "Kriti",
+            "raaga_id": "mechakalyani",
+            "composer_id": "muthuswami_dikshitar"
+        },
+        {
+            "composition_id": "unnai_allal_mechakalyani",
+            "title": "Unnai Allal",
+            "composition_type": "Kriti",
+            "raaga_id": "mechakalyani",
+            "composer_id": "papanasam_sivan"
+        },
+        {
+            "composition_id": "sri_mahaganapathe_abhogi",
+            "title": "Sri Mahaganapathe",
+            "composition_type": "Kriti",
+            "raaga_id": "abhogi",
+            "composer_id": "n_s_ramachandran"
+        },
+        {
+            "composition_id": "viriboni_bhairavi_varnam",
+            "title": "Viriboni",
+            "composition_type": "Varnam",
+            "raaga_id": "bhairavi",
+            "composer_id": "pacchimiriam_adiyappa"
+        },
+        {
+            "composition_id": "upacharamu_jeseva_bhairavi",
+            "title": "Upacharamu Jeseva",
+            "composition_type": "Kriti",
+            "raaga_id": "bhairavi",
+            "composer_id": "tyagaraja"
+        },
+        {
+            "composition_id": "balagopala_bhairavi",
+            "title": "Balagopala",
+            "composition_type": "Kriti",
+            "raaga_id": "bhairavi",
+            "composer_id": "muthuswami_dikshitar"
+        },
+        {
+            "composition_id": "o_rangasayee_kambhoji",
+            "title": "O Rangasayee",
+            "composition_type": "Kriti",
+            "raaga_id": "kambhoji",
+            "composer_id": "tyagaraja"
+        },
+        {
+            "composition_id": "kailasa_nathena_kambhoji",
+            "title": "Kailasa Nathena",
+            "composition_type": "Kriti",
+            "raaga_id": "kambhoji",
+            "composer_id": "muthuswami_dikshitar"
+        },
+        {
+            "composition_id": "thiruvadi_saranam_kambhoji",
+            "title": "Thiruvadi Saranam",
+            "composition_type": "Kriti",
+            "raaga_id": "kambhoji",
+            "composer_id": "gopalakrishna_bharati"
+        },
+        {
+            "composition_id": "sankari_sankuru_saveri",
+            "title": "Sankari Sankuru",
+            "composition_type": "Kriti",
+            "raaga_id": "saveri",
+            "composer_id": "syama_sastri"
+        },
+        {
+            "composition_id": "rama_bana_saveri",
+            "title": "Rama Bana",
+            "composition_type": "Kriti",
+            "raaga_id": "saveri",
+            "composer_id": "tyagaraja"
+        },
+        {
+            "composition_id": "durusuga_saveri_varnam",
+            "title": "Durusuga",
+            "composition_type": "Varnam",
+            "raaga_id": "saveri",
+            "composer_id": "syama_sastri"
+        },
+        {
+            "composition_id": "anupama_gunambudhi_atana",
+            "title": "Anupama Gunambudhi",
+            "composition_type": "Kriti",
+            "raaga_id": "atana",
+            "composer_id": "tyagaraja"
+        },
+        {
+            "composition_id": "brihaspate_atana",
+            "title": "Brihaspate",
+            "composition_type": "Kriti",
+            "raaga_id": "atana",
+            "composer_id": "muthuswami_dikshitar"
+        },
+        {
+            "composition_id": "ila_pali_atana",
+            "title": "Ila Pali",
+            "composition_type": "Kriti",
+            "raaga_id": "atana",
+            "composer_id": "papanasam_sivan"
+        },
+        {
+            "composition_id": "bhajana_seyave_dharmavati",
+            "title": "Bhajana Seyave",
+            "composition_type": "Kriti",
+            "raaga_id": "dharmavati",
+            "composer_id": "tyagaraja"
+        },
+        {
+            "composition_id": "parandamavati_jayathi_dharmavati",
+            "title": "Parandamavati Jayathi",
+            "composition_type": "Kriti",
+            "raaga_id": "dharmavati",
+            "composer_id": "muthuswami_dikshitar"
+        },
+        {
+            "composition_id": "ododi_vanden_dharmavati",
+            "title": "Ododi Vanden",
+            "composition_type": "Kriti",
+            "raaga_id": "dharmavati",
+            "composer_id": "ambujam_krishna"
+        },
+        {
+            "composition_id": "kantajoodumi_vachaspati",
+            "title": "Kantajoodumi",
+            "composition_type": "Kriti",
+            "raaga_id": "vachaspati",
+            "composer_id": "tyagaraja"
+        },
+        {
+            "composition_id": "pahi_jagajjanani_vachaspati",
+            "title": "Pahi Jagajjanani",
+            "composition_type": "Kriti",
+            "raaga_id": "vachaspati",
+            "composer_id": "swathi_thirunal"
+        },
+        {
+            "composition_id": "anandam_anandamayanene_vachaspati",
+            "title": "Anandam anandamAyanE",
+            "composition_type": "Kriti",
+            "raaga_id": "vachaspati",
+            "composer_id": "koteeswara_iyer"
+        },
+        {
+            "composition_id": "ninne_nammithi_nayya_simhendramadhyamam",
+            "title": "Ninne Nammithi Nayya",
+            "composition_type": "Kriti",
+            "raaga_id": "simhendramadhyamam",
+            "composer_id": "mysore_vasudevachar"
+        },
+        {
+            "composition_id": "kamakshi_kamakoti_simhendramadhyamam",
+            "title": "Kamakshi Kamakoti",
+            "composition_type": "Kriti",
+            "raaga_id": "simhendramadhyamam",
+            "composer_id": "muthuswami_dikshitar"
+        },
+        {
+            "composition_id": "ikaparam_ennum_simhendramadhyamam",
+            "title": "Ikaparam ennum",
+            "composition_type": "Kriti",
+            "raaga_id": "simhendramadhyamam",
+            "composer_id": "papanasam_sivan"
+        },
+        {
+            "composition_id": "guruleka_etuvanti_gourimanohari",
+            "title": "Guruleka Etuvanti",
+            "composition_type": "Kriti",
+            "raaga_id": "gourimanohari",
+            "composer_id": "tyagaraja"
+        },
+        {
+            "composition_id": "kaumari_gowri_gourimanohari",
+            "title": "Kaumari Gowri",
+            "composition_type": "Kriti",
+            "raaga_id": "gourimanohari",
+            "composer_id": "muthuswami_dikshitar"
+        },
+        {
+            "composition_id": "gauri_manohari_gourimanohari",
+            "title": "Gauri Manohari",
+            "composition_type": "Kriti",
+            "raaga_id": "gourimanohari",
+            "composer_id": "papanasam_sivan"
+        },
+        {
+            "composition_id": "aparadhamula_latangi",
+            "title": "Aparadhamula",
+            "composition_type": "Kriti",
+            "raaga_id": "latangi",
+            "composer_id": "tyagaraja"
+        },
+        {
+            "composition_id": "venkataramana_latangi",
+            "title": "Venkataramana",
+            "composition_type": "Kriti",
+            "raaga_id": "latangi",
+            "composer_id": "papanasam_sivan"
+        },
+        {
+            "composition_id": "pirava_varam_tharum_latangi",
+            "title": "Pirava Varam Tharum",
+            "composition_type": "Kriti",
+            "raaga_id": "latangi",
+            "composer_id": "koteeswara_iyer"
+        },
+        {
+            "composition_id": "marivere_gati_anandabhairavi",
+            "title": "Marivere Gati",
+            "composition_type": "Kriti",
+            "raaga_id": "anandabhairavi",
+            "composer_id": "syama_sastri"
+        },
+        {
+            "composition_id": "o_jagadamba_anandabhairavi",
+            "title": "O Jagadamba",
+            "composition_type": "Kriti",
+            "raaga_id": "anandabhairavi",
+            "composer_id": "syama_sastri"
+        },
+        {
+            "composition_id": "himagiri_thanaye_anandabhairavi",
+            "title": "Himagiri Thanaye",
+            "composition_type": "Kriti",
+            "raaga_id": "anandabhairavi",
+            "composer_id": "muthiah_bhagavatar"
+        },
+        {
+            "composition_id": "nadopasana_begada",
+            "title": "Nadopasana",
+            "composition_type": "Kriti",
+            "raaga_id": "begada",
+            "composer_id": "tyagaraja"
+        },
+        {
+            "composition_id": "vallabha_nayakasya_begada",
+            "title": "Vallabha Nayakasya",
+            "composition_type": "Kriti",
+            "raaga_id": "begada",
+            "composer_id": "muthuswami_dikshitar"
+        },
+        {
+            "composition_id": "kadaikkan_vaithennai_begada",
+            "title": "Kadaikkan vaithennai",
+            "composition_type": "Kriti",
+            "raaga_id": "begada",
+            "composer_id": "ramasamy_sivan"
+        },
+        {
+            "composition_id": "amba_neelayadakshi_nilambari",
+            "title": "Amba Neelayadakshi",
+            "composition_type": "Kriti",
+            "raaga_id": "nilambari",
+            "composer_id": "muthuswami_dikshitar"
+        },
+        {
+            "composition_id": "uyyala_lugavayya_nilambari",
+            "title": "Uyyala Lugavayya",
+            "composition_type": "Kriti",
+            "raaga_id": "nilambari",
+            "composer_id": "tyagaraja"
+        },
+        {
+            "composition_id": "enna_sona_nilambari",
+            "title": "Enna Sona",
+            "composition_type": "Kriti",
+            "raaga_id": "nilambari",
+            "composer_id": "periyasaamy_thooran"
+        },
+        {
+            "composition_id": "nannu_vidachi_ritigowla",
+            "title": "Nannu Vidachi",
+            "composition_type": "Kriti",
+            "raaga_id": "ritigowla",
+            "composer_id": "tyagaraja"
+        },
+        {
+            "composition_id": "janani_ninu_vina_ritigowla",
+            "title": "Janani Ninu Vina",
+            "composition_type": "Kriti",
+            "raaga_id": "ritigowla",
+            "composer_id": "subbaraya_sastri"
+        },
+        {
+            "composition_id": "dwaitamu_sukhama_ritigowla",
+            "title": "Dwaitamu Sukhama",
+            "composition_type": "Kriti",
+            "raaga_id": "ritigowla",
+            "composer_id": "tyagaraja"
+        },
+        {
+            "composition_id": "sitamma_mayamma_vasantha",
+            "title": "Sitamma Mayamma",
+            "composition_type": "Kriti",
+            "raaga_id": "vasantha",
+            "composer_id": "tyagaraja"
+        },
+        {
+            "composition_id": "ramachandram_bhavayami_vasantha",
+            "title": "Ramachandram Bhavayami",
+            "composition_type": "Kriti",
+            "raaga_id": "vasantha",
+            "composer_id": "muthuswami_dikshitar"
+        },
+        {
+            "composition_id": "natanam_adinar_vasantha",
+            "title": "Natanam Adinar",
+            "composition_type": "Kriti",
+            "raaga_id": "vasantha",
+            "composer_id": "gopalakrishna_bharati"
+        }
+    ]
+}
