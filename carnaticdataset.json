@@ -2137,6 +2137,127 @@
             "pattern_category": [
                 "Varja"
             ]
+        },
+        {
+            "raaga_id": "arabhi",
+            "name": "Arabhi",
+            "type": "Janya",
+            "parent_melakarta": "29",
+            "arohanam": "S R₂ M₁ P D₂ Ṡ",
+            "avarohanam": "Ṡ N₃ D₂ P M₁ G₃ R₂ S",
+            "moods": [
+                "Devotion",
+                "Veera"
+            ],
+            "time_of_day": "Any",
+            "swara_count_category": "Audava-Sampurna",
+            "pattern_category": [
+                "Varja"
+            ]
+        },
+        {
+            "raaga_id": "suddha_saveri",
+            "name": "Suddha Saveri",
+            "type": "Janya",
+            "parent_melakarta": "28",
+            "arohanam": "S R₂ M₁ P D₂ Ṡ",
+            "avarohanam": "Ṡ D₂ P M₁ R₂ S",
+            "moods": [
+                "Auspicious",
+                "Devotion",
+                "Peace"
+            ],
+            "time_of_day": "Any",
+            "swara_count_category": "Audava-Audava",
+            "pattern_category": [
+                "Varja"
+            ]
+        },
+        {
+            "raaga_id": "suddha_dhanyasi",
+            "name": "Suddha Dhanyasi",
+            "type": "Janya",
+            "parent_melakarta": "20",
+            "arohanam": "S G₂ M₁ P N₂ Ṡ",
+            "avarohanam": "Ṡ N₂ P M₁ G₂ S",
+            "moods": [
+                "Devotion",
+                "Pleasant",
+                "Karuna"
+            ],
+            "time_of_day": "Any",
+            "swara_count_category": "Audava-Audava",
+            "pattern_category": [
+                "Varja"
+            ]
+        },
+        {
+            "raaga_id": "valaji",
+            "name": "Valaji",
+            "type": "Janya",
+            "parent_melakarta": "28",
+            "arohanam": "S G₃ P D₂ N₂ Ṡ",
+            "avarohanam": "Ṡ N₂ D₂ P G₃ S",
+            "moods": [
+                "Joyful",
+                "Pleasant"
+            ],
+            "time_of_day": "Any",
+            "swara_count_category": "Audava-Audava",
+            "pattern_category": [
+                "Varja"
+            ]
+        },
+        {
+            "raaga_id": "revati",
+            "name": "Revati",
+            "type": "Janya",
+            "parent_melakarta": "8",
+            "arohanam": "S R₁ M₁ P N₂ Ṡ",
+            "avarohanam": "Ṡ N₂ P M₁ R₁ S",
+            "moods": [
+                "Devotion",
+                "Karuna"
+            ],
+            "time_of_day": "Morning",
+            "swara_count_category": "Audava-Audava",
+            "pattern_category": [
+                "Varja"
+            ]
+        },
+        {
+            "raaga_id": "mohanakalyani",
+            "name": "Mohanakalyani",
+            "type": "Janya",
+            "parent_melakarta": "65",
+            "arohanam": "S R₂ G₃ P D₂ Ṡ",
+            "avarohanam": "Ṡ N₃ D₂ P G₃ R₂ S",
+            "moods": [
+                "Joyful",
+                "Majestic"
+            ],
+            "time_of_day": "Evening",
+            "swara_count_category": "Audava-Sampurna",
+            "pattern_category": [
+                "Varja"
+            ]
+        },
+        {
+            "raaga_id": "varali",
+            "name": "Varali",
+            "type": "Janya",
+            "parent_melakarta": "39",
+            "arohanam": "S G₁ R₁ G₁ M₂ P D₁ N₃ Ṡ",
+            "avarohanam": "Ṡ N₃ D₁ P M₂ G₁ R₁ S",
+            "moods": [
+                "Pathos",
+                "Devotion"
+            ],
+            "time_of_day": "Any",
+            "swara_count_category": "Sampurna-Sampurna",
+            "pattern_category": [
+                "Vakra"
+            ]
         }
     ],
     "composers": [
